@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\All Cylsys Project\\IIFSLBSEReaderUtility\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E133C5B3-2FB7-4717-B520-C0D345B05CC5}|IIFSLBSEReaderUtility\\IIFSLBSEReaderUtility.csproj|d:\\all cylsys project\\iifslbsereaderutility\\iifslbsereaderutility\\helper\\bse_indexread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E133C5B3-2FB7-4717-B520-C0D345B05CC5}|IIFSLBSEReaderUtility\\IIFSLBSEReaderUtility.csproj|solutionrelative:iifslbsereaderutility\\helper\\bse_indexread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E133C5B3-2FB7-4717-B520-C0D345B05CC5}|IIFSLBSEReaderUtility\\IIFSLBSEReaderUtility.csproj|D:\\All Cylsys Project\\IIFSLBSEReaderUtility\\iifslbsereaderutility\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E133C5B3-2FB7-4717-B520-C0D345B05CC5}|IIFSLBSEReaderUtility\\IIFSLBSEReaderUtility.csproj|solutionrelative:iifslbsereaderutility\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400A30BE-21C8-492A-87DE-4908662CD7F9}|midcap_IIFsl_utility\\midcap_IIFsl_utility.csproj|D:\\All Cylsys Project\\IIFSLBSEReaderUtility\\midcap_iifsl_utility\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400A30BE-21C8-492A-87DE-4908662CD7F9}|midcap_IIFsl_utility\\midcap_IIFsl_utility.csproj|solutionrelative:midcap_iifsl_utility\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BSE_Indexread.cs",
+              "DocumentMoniker": "D:\\All Cylsys Project\\IIFSLBSEReaderUtility\\IIFSLBSEReaderUtility\\Helper\\BSE_Indexread.cs",
+              "RelativeDocumentMoniker": "IIFSLBSEReaderUtility\\Helper\\BSE_Indexread.cs",
+              "ToolTip": "D:\\All Cylsys Project\\IIFSLBSEReaderUtility\\IIFSLBSEReaderUtility\\Helper\\BSE_Indexread.cs",
+              "RelativeToolTip": "IIFSLBSEReaderUtility\\Helper\\BSE_Indexread.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAswFUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T06:18:46.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\All Cylsys Project\\IIFSLBSEReaderUtility\\IIFSLBSEReaderUtility\\App.config",
+              "RelativeDocumentMoniker": "IIFSLBSEReaderUtility\\App.config",
+              "ToolTip": "D:\\All Cylsys Project\\IIFSLBSEReaderUtility\\IIFSLBSEReaderUtility\\App.config",
+              "RelativeToolTip": "IIFSLBSEReaderUtility\\App.config",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-10-09T06:20:31.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\All Cylsys Project\\IIFSLBSEReaderUtility\\midcap_IIFsl_utility\\Program.cs",
+              "RelativeDocumentMoniker": "midcap_IIFsl_utility\\Program.cs",
+              "ToolTip": "D:\\All Cylsys Project\\IIFSLBSEReaderUtility\\midcap_IIFsl_utility\\Program.cs",
+              "RelativeToolTip": "midcap_IIFsl_utility\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwBIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T04:16:12.293Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

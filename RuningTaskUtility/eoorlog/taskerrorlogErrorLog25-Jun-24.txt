@@ -1,0 +1,2689 @@
+25-Jun-24 11:18:21	Executing utility at 6/25/2024 11:18:21 AM
+25-Jun-24 11:46:09	Executing utility at 6/25/2024 11:46:04 AM
+25-Jun-24 12:01:10	Executing utility at 6/25/2024 12:01:10 PM
+25-Jun-24 12:02:18	Executing utility at 6/25/2024 12:02:17 PM
+25-Jun-24 12:20:29	Executing utility at 6/25/2024 12:20:26 PM
+25-Jun-24 12:55:52	Executing utility at 6/25/2024 12:55:51 PM
+25-Jun-24 12:56:54	insert into tbl_main_alltask(taskid,taskname) values('','Adobe Acrobat Update Task')
+25-Jun-24 12:57:08	insert into tbl_main_alltask(taskid,taskname) values('','Adobe-Genuine-Software-Integrity-Scheduler-1.0')
+25-Jun-24 12:57:08	insert into tbl_main_alltask(taskid,taskname) values('','AdobeGCInvoker-1.0')
+25-Jun-24 12:57:09	insert into tbl_main_alltask(taskid,taskname) values('','anshu')
+25-Jun-24 12:57:10	insert into tbl_main_alltask(taskid,taskname) values('','OneDrive Reporting Task-S-1-5-21-4052539082-3249235043-2059780522-1001')
+25-Jun-24 12:57:10	insert into tbl_main_alltask(taskid,taskname) values('','OneDrive Standalone Update Task-S-1-5-21-4052539082-3249235043-2059780522-1001')
+25-Jun-24 12:57:11	insert into tbl_main_alltask(taskid,taskname) values('','safsg')
+25-Jun-24 12:57:11	insert into tbl_main_alltask(taskid,taskname) values('','VSIX Auto Update')
+25-Jun-24 12:57:12	insert into tbl_main_alltask(taskid,taskname) values('','UpdateConfiguration_S-1-5-21-4052539082-3249235043-2059780522-1001')
+25-Jun-24 12:57:13	insert into tbl_main_alltask(taskid,taskname) values('','UpdateConfiguration_S-1-5-21-4052539082-3249235043-2059780522-1002')
+25-Jun-24 12:57:14	insert into tbl_main_alltask(taskid,taskname) values('','UpdateConfiguration_S-1-5-80-1325446630-1604430999-376170648-153129477-3068919839')
+25-Jun-24 12:57:14	insert into tbl_main_alltask(taskid,taskname) values('','UpdateConfiguration_S-1-5-80-1558248044-1593909066-2064011601-2876309908-1898208377')
+25-Jun-24 12:57:15	insert into tbl_main_alltask(taskid,taskname) values('','UpdateConfiguration_S-1-5-80-1768481418-4243586691-1349411104-1299650809-3159321943')
+25-Jun-24 12:57:15	insert into tbl_main_alltask(taskid,taskname) values('','UpdateConfiguration_S-1-5-80-1829637061-4289792954-594388474-1141019738-1140273761')
+25-Jun-24 12:57:16	insert into tbl_main_alltask(taskid,taskname) values('','UpdateConfiguration_S-1-5-80-1899634293-1740304806-2887984933-505496300-1155962382')
+25-Jun-24 12:57:17	insert into tbl_main_alltask(taskid,taskname) values('','UpdateConfiguration_S-1-5-80-1985561900-798682989-2213159822-1904180398-3434236965')
+25-Jun-24 12:57:18	insert into tbl_main_alltask(taskid,taskname) values('','UpdateConfiguration_S-1-5-80-2153795431-3439670559-4211332317-2177827265-2821837002')
+25-Jun-24 12:57:18	insert into tbl_main_alltask(taskid,taskname) values('','UpdateConfiguration_S-1-5-80-2575449109-2369498003-86869817-2770163484-1998650617')
+25-Jun-24 12:57:19	insert into tbl_main_alltask(taskid,taskname) values('','UpdateConfiguration_S-1-5-80-2652535364-2169709536-2857650723-2622804123-1107741775')
+25-Jun-24 12:57:19	insert into tbl_main_alltask(taskid,taskname) values('','UpdateConfiguration_S-1-5-80-309224134-970686483-1999427595-3240087295-3167920316')
+25-Jun-24 12:57:20	insert into tbl_main_alltask(taskid,taskname) values('','UpdateConfiguration_S-1-5-80-3404462892-1987791245-2451609587-3755554482-3689831200')
+25-Jun-24 12:57:21	insert into tbl_main_alltask(taskid,taskname) values('','UpdateConfiguration_S-1-5-80-374725556-3612212497-2365472278-3259944318-2763227505')
+25-Jun-24 12:57:21	insert into tbl_main_alltask(taskid,taskname) values('','UpdateConfiguration_S-1-5-80-3880006512-4290199581-1648723128-3569869737-3631323133')
+25-Jun-24 12:57:22	insert into tbl_main_alltask(taskid,taskname) values('','UpdateConfiguration_S-1-5-80-3880718306-3832830129-1677859214-2598158968-1052248003')
+25-Jun-24 12:57:23	insert into tbl_main_alltask(taskid,taskname) values('','UpdateConfiguration_S-1-5-80-3985847660-2753231750-3124710427-4002290793-1281732417')
+25-Jun-24 12:57:23	insert into tbl_main_alltask(taskid,taskname) values('','UpdateConfiguration_S-1-5-80-418207337-3061451207-1180287332-530680628-2707783206')
+25-Jun-24 12:57:24	insert into tbl_main_alltask(taskid,taskname) values('','UpdateConfiguration_S-1-5-80-4221218650-3734044757-384929471-3242703948-1535012119')
+25-Jun-24 12:57:25	insert into tbl_main_alltask(taskid,taskname) values('','UpdateConfiguration_S-1-5-80-684135558-66954648-645343295-865517114-2956913369')
+25-Jun-24 12:57:25	insert into tbl_main_alltask(taskid,taskname) values('','.NET Framework NGEN v4.0.30319')
+25-Jun-24 12:57:26	insert into tbl_main_alltask(taskid,taskname) values('','.NET Framework NGEN v4.0.30319 64')
+25-Jun-24 12:57:26	insert into tbl_main_alltask(taskid,taskname) values('','.NET Framework NGEN v4.0.30319 64 Critical')
+25-Jun-24 12:57:27	insert into tbl_main_alltask(taskid,taskname) values('','.NET Framework NGEN v4.0.30319 Critical')
+25-Jun-24 12:57:28	insert into tbl_main_alltask(taskid,taskname) values('','AD RMS Rights Policy Template Management (Automated)')
+25-Jun-24 12:57:28	insert into tbl_main_alltask(taskid,taskname) values('','AD RMS Rights Policy Template Management (Manual)')
+25-Jun-24 12:57:29	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','PolicyConverter')
+25-Jun-24 12:57:29	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','VerifiedPublisherCertStoreCheck')
+25-Jun-24 12:57:30	insert into tbl_main_alltask(taskid,taskname) values('$(@%SystemRoot%\system32\invagent.dll,-701)','MareBackup')
+25-Jun-24 12:57:30	insert into tbl_main_alltask(taskid,taskname) values('$(@%SystemRoot%\system32\compattelrunner.exe,-501)','Microsoft Compatibility Appraiser')
+25-Jun-24 12:57:32	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','PcaPatchDbTask')
+25-Jun-24 12:57:32	insert into tbl_main_alltask(taskid,taskname) values('$(@%SystemRoot%\system32\invagent.dll,-701)','ProgramDataUpdater')
+25-Jun-24 12:57:33	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','StartupAppTask')
+25-Jun-24 12:57:34	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','appuriverifierdaily')
+25-Jun-24 12:57:34	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','appuriverifierinstall')
+25-Jun-24 12:57:35	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','CleanupTemporaryState')
+25-Jun-24 12:57:36	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','DsSvcCleanup')
+25-Jun-24 12:57:36	insert into tbl_main_alltask(taskid,taskname) values('$(@%SystemRoot%\system32\AppListBackupLauncher.dll,-601)','Backup')
+25-Jun-24 12:57:37	insert into tbl_main_alltask(taskid,taskname) values('$(@%SystemRoot%\system32\AppListBackupLauncher.dll,-601)','BackupNonMaintenance')
+25-Jun-24 12:57:38	insert into tbl_main_alltask(taskid,taskname) values('','Pre-staged app cleanup')
+25-Jun-24 12:57:38	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','Proxy')
+25-Jun-24 12:57:39	insert into tbl_main_alltask(taskid,taskname) values('','BitLocker Encrypt All Drives')
+25-Jun-24 12:57:39	insert into tbl_main_alltask(taskid,taskname) values('','BitLocker MDM policy Refresh')
+25-Jun-24 12:57:40	insert into tbl_main_alltask(taskid,taskname) values('','UninstallDeviceTask')
+25-Jun-24 12:57:41	insert into tbl_main_alltask(taskid,taskname) values('','BgTaskRegistrationMaintenanceTask')
+25-Jun-24 12:57:41	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Windows Security','UserTask')
+25-Jun-24 12:57:42	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Windows Security','UserTask-Roam')
+25-Jun-24 12:57:42	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','ProactiveScan')
+25-Jun-24 12:57:43	insert into tbl_main_alltask(taskid,taskname) values('','SyspartRepair')
+25-Jun-24 12:57:43	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','LicenseImdsIntegration')
+25-Jun-24 12:57:44	insert into tbl_main_alltask(taskid,taskname) values('','CreateObjectTask')
+25-Jun-24 12:57:44	task already preasentBackup
+25-Jun-24 12:57:45	insert into tbl_main_alltask(taskid,taskname) values('$(@%systemRoot%\system32\unifiedconsent.dll,-103)','UnifiedConsentSyncTask')
+25-Jun-24 12:57:46	insert into tbl_main_alltask(taskid,taskname) values('Windows Customer Experience Improvement Program','Consolidator')
+25-Jun-24 12:57:46	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','UsbCeip')
+25-Jun-24 12:57:47	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','Data Integrity Check And Scan')
+25-Jun-24 12:57:47	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','Data Integrity Scan')
+25-Jun-24 12:57:48	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','Data Integrity Scan for Crash Recovery')
+25-Jun-24 12:57:49	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','ScheduledDefrag')
+25-Jun-24 12:57:49	insert into tbl_main_alltask(taskid,taskname) values('','Device')
+25-Jun-24 12:57:50	insert into tbl_main_alltask(taskid,taskname) values('','Device User')
+25-Jun-24 12:57:50	insert into tbl_main_alltask(taskid,taskname) values('Recommended Troubleshooting Service','RecommendedTroubleshootingScanner')
+25-Jun-24 12:57:51	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','Scheduled')
+25-Jun-24 12:57:52	insert into tbl_main_alltask(taskid,taskname) values('','DirectXDatabaseUpdater')
+25-Jun-24 12:57:52	insert into tbl_main_alltask(taskid,taskname) values('','DXGIAdapterCache')
+25-Jun-24 12:57:53	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','SilentCleanup')
+25-Jun-24 12:57:53	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','Microsoft-Windows-DiskDiagnosticDataCollector')
+25-Jun-24 12:57:54	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','Microsoft-Windows-DiskDiagnosticResolver')
+25-Jun-24 12:57:55	insert into tbl_main_alltask(taskid,taskname) values('','Diagnostics')
+25-Jun-24 12:57:55	insert into tbl_main_alltask(taskid,taskname) values('','StorageSense')
+25-Jun-24 12:57:56	insert into tbl_main_alltask(taskid,taskname) values('','dusmtask')
+25-Jun-24 12:57:56	insert into tbl_main_alltask(taskid,taskname) values('','EDP App Launch Task')
+25-Jun-24 12:57:57	insert into tbl_main_alltask(taskid,taskname) values('','EDP Auth Task')
+25-Jun-24 12:57:58	insert into tbl_main_alltask(taskid,taskname) values('','EDP Inaccessible Credentials Task')
+25-Jun-24 12:57:58	insert into tbl_main_alltask(taskid,taskname) values('','StorageCardEncryption Task')
+25-Jun-24 12:57:59	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','ExploitGuard MDM policy Refresh')
+25-Jun-24 12:57:59	insert into tbl_main_alltask(taskid,taskname) values('System Initiated User Feedback','DmClient')
+25-Jun-24 12:58:00	insert into tbl_main_alltask(taskid,taskname) values('System Initiated User Feedback','DmClientOnScenarioDownload')
+25-Jun-24 12:58:01	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','Property Definition Sync')
+25-Jun-24 12:58:01	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','File History (maintenance mode)')
+25-Jun-24 12:58:02	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','ReconcileFeatures')
+25-Jun-24 12:58:02	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','UsageDataFlushing')
+25-Jun-24 12:58:03	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','UsageDataReporting')
+25-Jun-24 12:58:04	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','RefreshCache')
+25-Jun-24 12:58:05	insert into tbl_main_alltask(taskid,taskname) values('','LocalUserSyncDataAvailable')
+25-Jun-24 12:58:05	insert into tbl_main_alltask(taskid,taskname) values('','MouseSyncDataAvailable')
+25-Jun-24 12:58:06	insert into tbl_main_alltask(taskid,taskname) values('','PenSyncDataAvailable')
+25-Jun-24 12:58:06	insert into tbl_main_alltask(taskid,taskname) values('','TouchpadSyncDataAvailable')
+25-Jun-24 12:58:07	insert into tbl_main_alltask(taskid,taskname) values('','ScanForUpdates')
+25-Jun-24 12:58:08	insert into tbl_main_alltask(taskid,taskname) values('','ScanForUpdatesAsUser')
+25-Jun-24 12:58:08	insert into tbl_main_alltask(taskid,taskname) values('','WakeUpAndContinueUpdates')
+25-Jun-24 12:58:09	insert into tbl_main_alltask(taskid,taskname) values('','WakeUpAndScanForUpdates')
+25-Jun-24 12:58:09	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','Synchronize Language Settings')
+25-Jun-24 12:58:10	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','Installation')
+25-Jun-24 12:58:11	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','ReconcileLanguageResources')
+25-Jun-24 12:58:11	insert into tbl_main_alltask(taskid,taskname) values('','Notifications')
+25-Jun-24 12:58:12	insert into tbl_main_alltask(taskid,taskname) values('','WindowsActionDialog')
+25-Jun-24 12:58:12	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Windows System Assessment Tool (WinSAT)','WinSAT')
+25-Jun-24 12:58:13	insert into tbl_main_alltask(taskid,taskname) values('$(@%SystemRoot%\system32\Autopilot.dll,-601)','DetectHardwareChange')
+25-Jun-24 12:58:14	insert into tbl_main_alltask(taskid,taskname) values('$(@%SystemRoot%\system32\Autopilot.dll,-601)','RemediateHardwareChange')
+25-Jun-24 12:58:14	insert into tbl_main_alltask(taskid,taskname) values('','Cellular')
+25-Jun-24 12:58:15	insert into tbl_main_alltask(taskid,taskname) values('','Logon')
+25-Jun-24 12:58:15	insert into tbl_main_alltask(taskid,taskname) values('','Retry')
+25-Jun-24 12:58:16	insert into tbl_main_alltask(taskid,taskname) values('','RunOnReboot')
+25-Jun-24 12:58:16	insert into tbl_main_alltask(taskid,taskname) values('','MapsToastTask')
+25-Jun-24 12:58:17	insert into tbl_main_alltask(taskid,taskname) values('','MapsUpdateTask')
+25-Jun-24 12:58:18	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','ProcessMemoryDiagnosticEvents')
+25-Jun-24 12:58:18	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','RunFullMemoryDiagnostic')
+25-Jun-24 12:58:19	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Windows Mbae Parser','MNO Metadata Parser')
+25-Jun-24 12:58:19	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','LPRemove')
+25-Jun-24 12:58:20	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','SystemSoundsService')
+25-Jun-24 12:58:21	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Windows Network Trace','GatherNetworkInfo')
+25-Jun-24 12:58:21	insert into tbl_main_alltask(taskid,taskname) values('','WiFiTask')
+25-Jun-24 12:58:22	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','Background Synchronization')
+25-Jun-24 12:58:22	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','Logon Synchronization')
+25-Jun-24 12:58:23	insert into tbl_main_alltask(taskid,taskname) values('','SecureBootEncodeUEFI')
+25-Jun-24 12:58:24	insert into tbl_main_alltask(taskid,taskname) values('','Device Install Group Policy')
+25-Jun-24 12:58:24	insert into tbl_main_alltask(taskid,taskname) values('','Device Install Reboot Required')
+25-Jun-24 12:58:25	insert into tbl_main_alltask(taskid,taskname) values('','Sysprep Generalize Drivers')
+25-Jun-24 12:58:25	insert into tbl_main_alltask(taskid,taskname) values('Power Efficiency Diagnostics','AnalyzeSystem')
+25-Jun-24 12:58:26	insert into tbl_main_alltask(taskid,taskname) values('','EduPrintProv')
+25-Jun-24 12:58:27	insert into tbl_main_alltask(taskid,taskname) values('','PrinterCleanupTask')
+25-Jun-24 12:58:27	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','VerifyWinRE')
+25-Jun-24 12:58:28	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','RegIdleBackup')
+25-Jun-24 12:58:28	insert into tbl_main_alltask(taskid,taskname) values('','StartComponentCleanup')
+25-Jun-24 12:58:29	insert into tbl_main_alltask(taskid,taskname) values('','BackgroundUploadTask')
+25-Jun-24 12:58:30	insert into tbl_main_alltask(taskid,taskname) values('','NetworkStateChangeTask')
+25-Jun-24 12:58:30	insert into tbl_main_alltask(taskid,taskname) values('','Account Cleanup')
+25-Jun-24 12:58:31	task already preasentCreateObjectTask
+25-Jun-24 12:58:31	insert into tbl_main_alltask(taskid,taskname) values('Family','FamilySafetyMonitor')
+25-Jun-24 12:58:32	insert into tbl_main_alltask(taskid,taskname) values('Microsoft family features','FamilySafetyRefreshTask')
+25-Jun-24 12:58:32	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','IndexerAutomaticMaintenance')
+25-Jun-24 12:58:33	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','ThemesSyncedImageDownload')
+25-Jun-24 12:58:33	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','SvcRestartTaskLogon')
+25-Jun-24 12:58:34	insert into tbl_main_alltask(taskid,taskname) values('Storage Spaces','SpaceAgentTask')
+25-Jun-24 12:58:35	insert into tbl_main_alltask(taskid,taskname) values('$(@%SystemRoot%\system32\spaceman.exe,-1)','SpaceManagerTask')
+25-Jun-24 12:58:35	insert into tbl_main_alltask(taskid,taskname) values('$(@%SystemRoot%\system32\Windows.StateRepositoryClient.dll,-601)','MaintenanceTasks')
+25-Jun-24 12:58:36	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','Storage Tiers Management Initialization')
+25-Jun-24 12:58:36	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','Storage Tiers Optimization')
+25-Jun-24 12:58:38	insert into tbl_main_alltask(taskid,taskname) values('ClipRenew.exe','EnableLicenseAcquisition')
+25-Jun-24 12:58:38	insert into tbl_main_alltask(taskid,taskname) values('ClipRenew.exe','LicenseAcquisition')
+25-Jun-24 12:58:39	insert into tbl_main_alltask(taskid,taskname) values('','HybridDriveCachePrepopulate')
+25-Jun-24 12:58:39	insert into tbl_main_alltask(taskid,taskname) values('','HybridDriveCacheRebalance')
+25-Jun-24 12:58:40	insert into tbl_main_alltask(taskid,taskname) values('','ResPriStaticDbSync')
+25-Jun-24 12:58:41	insert into tbl_main_alltask(taskid,taskname) values('','WsSwapAssessmentTask')
+25-Jun-24 12:58:41	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','SR')
+25-Jun-24 12:58:42	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','Interactive')
+25-Jun-24 12:58:42	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','MsCtfMonitor')
+25-Jun-24 12:58:43	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','ForceSynchronizeTime')
+25-Jun-24 12:58:44	insert into tbl_main_alltask(taskid,taskname) values('Windows Time','SynchronizeTime')
+25-Jun-24 12:58:44	insert into tbl_main_alltask(taskid,taskname) values('','SynchronizeTimeZone')
+25-Jun-24 12:58:45	insert into tbl_main_alltask(taskid,taskname) values('','RunUpdateNotificationMgr')
+25-Jun-24 12:58:45	insert into tbl_main_alltask(taskid,taskname) values('','UPnPHostConfig')
+25-Jun-24 12:58:46	insert into tbl_main_alltask(taskid,taskname) values('','Usb-Notifications')
+25-Jun-24 12:58:46	task already preasentWiFiTask
+25-Jun-24 12:58:47	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','ResolutionHost')
+25-Jun-24 12:58:47	insert into tbl_main_alltask(taskid,taskname) values('','Windows Defender Cache Maintenance')
+25-Jun-24 12:58:48	insert into tbl_main_alltask(taskid,taskname) values('','Windows Defender Cleanup')
+25-Jun-24 12:58:49	insert into tbl_main_alltask(taskid,taskname) values('','Windows Defender Scheduled Scan')
+25-Jun-24 12:58:49	insert into tbl_main_alltask(taskid,taskname) values('','Windows Defender Verification')
+25-Jun-24 12:58:50	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Windows Error Reporting','QueueReporting')
+25-Jun-24 12:58:50	insert into tbl_main_alltask(taskid,taskname) values('','BfeOnServiceStartTypeChange')
+25-Jun-24 12:58:51	insert into tbl_main_alltask(taskid,taskname) values('','UpdateLibrary')
+25-Jun-24 12:58:52	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','Calibration Loader')
+25-Jun-24 12:58:52	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation.','Scheduled Start')
+25-Jun-24 12:58:53	insert into tbl_main_alltask(taskid,taskname) values('','CacheTask')
+25-Jun-24 12:58:53	insert into tbl_main_alltask(taskid,taskname) values('','CDSSync')
+25-Jun-24 12:58:54	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','Work Folders Logon Synchronization')
+25-Jun-24 12:58:55	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','Work Folders Maintenance Work')
+25-Jun-24 12:58:55	insert into tbl_main_alltask(taskid,taskname) values('','Automatic-Device-Join')
+25-Jun-24 12:58:56	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','Device-Sync')
+25-Jun-24 12:58:56	insert into tbl_main_alltask(taskid,taskname) values('','Recovery-Check')
+25-Jun-24 12:58:57	insert into tbl_main_alltask(taskid,taskname) values('','NotificationTask')
+25-Jun-24 12:58:58	insert into tbl_main_alltask(taskid,taskname) values('','OobeDiscovery')
+25-Jun-24 12:58:58	insert into tbl_main_alltask(taskid,taskname) values('','XblGameSaveTask')
+25-Jun-24 12:58:59	insert into tbl_main_alltask(taskid,taskname) values('','Firefox Background Update S-1-5-21-4052539082-3249235043-2059780522-1001 A749823778009F0F')
+25-Jun-24 12:58:59	insert into tbl_main_alltask(taskid,taskname) values('','Firefox Default Browser Agent 308046B0AF4A39CB')
+25-Jun-24 12:59:00	insert into tbl_main_alltask(taskid,taskname) values('','Firefox Default Browser Agent A749823778009F0F')
+25-Jun-24 13:04:04	Executing utility at 6/25/2024 1:04:04 PM
+25-Jun-24 13:05:04	insert into tbl_main_alltask(taskid,taskname) values('','Adobe Acrobat Update Task')
+25-Jun-24 13:05:05	insert into tbl_main_alltask(taskid,taskname) values('','Adobe-Genuine-Software-Integrity-Scheduler-1.0')
+25-Jun-24 13:05:06	insert into tbl_main_alltask(taskid,taskname) values('','AdobeGCInvoker-1.0')
+25-Jun-24 13:05:06	insert into tbl_main_alltask(taskid,taskname) values('','anshu')
+25-Jun-24 13:05:07	insert into tbl_main_alltask(taskid,taskname) values('','OneDrive Reporting Task-S-1-5-21-4052539082-3249235043-2059780522-1001')
+25-Jun-24 13:05:08	insert into tbl_main_alltask(taskid,taskname) values('','OneDrive Standalone Update Task-S-1-5-21-4052539082-3249235043-2059780522-1001')
+25-Jun-24 13:05:08	insert into tbl_main_alltask(taskid,taskname) values('','safsg')
+25-Jun-24 13:05:09	insert into tbl_main_alltask(taskid,taskname) values('','VSIX Auto Update')
+25-Jun-24 13:05:09	insert into tbl_main_alltask(taskid,taskname) values('','UpdateConfiguration_S-1-5-21-4052539082-3249235043-2059780522-1001')
+25-Jun-24 13:05:10	insert into tbl_main_alltask(taskid,taskname) values('','UpdateConfiguration_S-1-5-21-4052539082-3249235043-2059780522-1002')
+25-Jun-24 13:05:11	insert into tbl_main_alltask(taskid,taskname) values('','UpdateConfiguration_S-1-5-80-1325446630-1604430999-376170648-153129477-3068919839')
+25-Jun-24 13:05:11	insert into tbl_main_alltask(taskid,taskname) values('','UpdateConfiguration_S-1-5-80-1558248044-1593909066-2064011601-2876309908-1898208377')
+25-Jun-24 13:05:12	insert into tbl_main_alltask(taskid,taskname) values('','UpdateConfiguration_S-1-5-80-1768481418-4243586691-1349411104-1299650809-3159321943')
+25-Jun-24 13:05:13	insert into tbl_main_alltask(taskid,taskname) values('','UpdateConfiguration_S-1-5-80-1829637061-4289792954-594388474-1141019738-1140273761')
+25-Jun-24 13:05:13	insert into tbl_main_alltask(taskid,taskname) values('','UpdateConfiguration_S-1-5-80-1899634293-1740304806-2887984933-505496300-1155962382')
+25-Jun-24 13:05:14	insert into tbl_main_alltask(taskid,taskname) values('','UpdateConfiguration_S-1-5-80-1985561900-798682989-2213159822-1904180398-3434236965')
+25-Jun-24 13:05:14	insert into tbl_main_alltask(taskid,taskname) values('','UpdateConfiguration_S-1-5-80-2153795431-3439670559-4211332317-2177827265-2821837002')
+25-Jun-24 13:05:15	insert into tbl_main_alltask(taskid,taskname) values('','UpdateConfiguration_S-1-5-80-2575449109-2369498003-86869817-2770163484-1998650617')
+25-Jun-24 13:05:16	insert into tbl_main_alltask(taskid,taskname) values('','UpdateConfiguration_S-1-5-80-2652535364-2169709536-2857650723-2622804123-1107741775')
+25-Jun-24 13:05:16	insert into tbl_main_alltask(taskid,taskname) values('','UpdateConfiguration_S-1-5-80-309224134-970686483-1999427595-3240087295-3167920316')
+25-Jun-24 13:05:17	insert into tbl_main_alltask(taskid,taskname) values('','UpdateConfiguration_S-1-5-80-3404462892-1987791245-2451609587-3755554482-3689831200')
+25-Jun-24 13:05:18	insert into tbl_main_alltask(taskid,taskname) values('','UpdateConfiguration_S-1-5-80-374725556-3612212497-2365472278-3259944318-2763227505')
+25-Jun-24 13:05:18	insert into tbl_main_alltask(taskid,taskname) values('','UpdateConfiguration_S-1-5-80-3880006512-4290199581-1648723128-3569869737-3631323133')
+25-Jun-24 13:05:19	insert into tbl_main_alltask(taskid,taskname) values('','UpdateConfiguration_S-1-5-80-3880718306-3832830129-1677859214-2598158968-1052248003')
+25-Jun-24 13:05:19	insert into tbl_main_alltask(taskid,taskname) values('','UpdateConfiguration_S-1-5-80-3985847660-2753231750-3124710427-4002290793-1281732417')
+25-Jun-24 13:05:20	insert into tbl_main_alltask(taskid,taskname) values('','UpdateConfiguration_S-1-5-80-418207337-3061451207-1180287332-530680628-2707783206')
+25-Jun-24 13:05:21	insert into tbl_main_alltask(taskid,taskname) values('','UpdateConfiguration_S-1-5-80-4221218650-3734044757-384929471-3242703948-1535012119')
+25-Jun-24 13:05:21	insert into tbl_main_alltask(taskid,taskname) values('','UpdateConfiguration_S-1-5-80-684135558-66954648-645343295-865517114-2956913369')
+25-Jun-24 13:05:22	insert into tbl_main_alltask(taskid,taskname) values('','.NET Framework NGEN v4.0.30319')
+25-Jun-24 13:05:23	insert into tbl_main_alltask(taskid,taskname) values('','.NET Framework NGEN v4.0.30319 64')
+25-Jun-24 13:05:23	insert into tbl_main_alltask(taskid,taskname) values('','.NET Framework NGEN v4.0.30319 64 Critical')
+25-Jun-24 13:05:24	insert into tbl_main_alltask(taskid,taskname) values('','.NET Framework NGEN v4.0.30319 Critical')
+25-Jun-24 13:05:24	insert into tbl_main_alltask(taskid,taskname) values('','AD RMS Rights Policy Template Management (Automated)')
+25-Jun-24 13:05:25	insert into tbl_main_alltask(taskid,taskname) values('','AD RMS Rights Policy Template Management (Manual)')
+25-Jun-24 13:05:26	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','PolicyConverter')
+25-Jun-24 13:05:26	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','VerifiedPublisherCertStoreCheck')
+25-Jun-24 13:05:27	insert into tbl_main_alltask(taskid,taskname) values('$(@%SystemRoot%\system32\invagent.dll,-701)','MareBackup')
+25-Jun-24 13:05:28	insert into tbl_main_alltask(taskid,taskname) values('$(@%SystemRoot%\system32\compattelrunner.exe,-501)','Microsoft Compatibility Appraiser')
+25-Jun-24 13:05:28	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','PcaPatchDbTask')
+25-Jun-24 13:05:29	insert into tbl_main_alltask(taskid,taskname) values('$(@%SystemRoot%\system32\invagent.dll,-701)','ProgramDataUpdater')
+25-Jun-24 13:05:30	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','StartupAppTask')
+25-Jun-24 13:05:30	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','appuriverifierdaily')
+25-Jun-24 13:05:31	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','appuriverifierinstall')
+25-Jun-24 13:05:31	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','CleanupTemporaryState')
+25-Jun-24 13:05:32	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','DsSvcCleanup')
+25-Jun-24 13:05:33	insert into tbl_main_alltask(taskid,taskname) values('$(@%SystemRoot%\system32\AppListBackupLauncher.dll,-601)','Backup')
+25-Jun-24 13:05:33	insert into tbl_main_alltask(taskid,taskname) values('$(@%SystemRoot%\system32\AppListBackupLauncher.dll,-601)','BackupNonMaintenance')
+25-Jun-24 13:05:34	insert into tbl_main_alltask(taskid,taskname) values('','Pre-staged app cleanup')
+25-Jun-24 13:05:35	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','Proxy')
+25-Jun-24 13:05:35	insert into tbl_main_alltask(taskid,taskname) values('','BitLocker Encrypt All Drives')
+25-Jun-24 13:05:36	insert into tbl_main_alltask(taskid,taskname) values('','BitLocker MDM policy Refresh')
+25-Jun-24 13:05:36	insert into tbl_main_alltask(taskid,taskname) values('','UninstallDeviceTask')
+25-Jun-24 13:05:37	insert into tbl_main_alltask(taskid,taskname) values('','BgTaskRegistrationMaintenanceTask')
+25-Jun-24 13:05:38	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Windows Security','UserTask')
+25-Jun-24 13:05:38	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Windows Security','UserTask-Roam')
+25-Jun-24 13:05:39	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','ProactiveScan')
+25-Jun-24 13:05:39	insert into tbl_main_alltask(taskid,taskname) values('','SyspartRepair')
+25-Jun-24 13:05:40	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','LicenseImdsIntegration')
+25-Jun-24 13:05:41	insert into tbl_main_alltask(taskid,taskname) values('','CreateObjectTask')
+25-Jun-24 13:05:41	task already preasentBackup
+25-Jun-24 13:05:42	insert into tbl_main_alltask(taskid,taskname) values('$(@%systemRoot%\system32\unifiedconsent.dll,-103)','UnifiedConsentSyncTask')
+25-Jun-24 13:05:42	insert into tbl_main_alltask(taskid,taskname) values('Windows Customer Experience Improvement Program','Consolidator')
+25-Jun-24 13:05:43	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','UsbCeip')
+25-Jun-24 13:05:44	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','Data Integrity Check And Scan')
+25-Jun-24 13:05:44	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','Data Integrity Scan')
+25-Jun-24 13:05:45	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','Data Integrity Scan for Crash Recovery')
+25-Jun-24 13:05:46	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','ScheduledDefrag')
+25-Jun-24 13:05:46	insert into tbl_main_alltask(taskid,taskname) values('','Device')
+25-Jun-24 13:05:47	insert into tbl_main_alltask(taskid,taskname) values('','Device User')
+25-Jun-24 13:05:47	insert into tbl_main_alltask(taskid,taskname) values('Recommended Troubleshooting Service','RecommendedTroubleshootingScanner')
+25-Jun-24 13:05:48	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','Scheduled')
+25-Jun-24 13:05:49	insert into tbl_main_alltask(taskid,taskname) values('','DirectXDatabaseUpdater')
+25-Jun-24 13:05:49	insert into tbl_main_alltask(taskid,taskname) values('','DXGIAdapterCache')
+25-Jun-24 13:05:50	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','SilentCleanup')
+25-Jun-24 13:05:50	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','Microsoft-Windows-DiskDiagnosticDataCollector')
+25-Jun-24 13:05:51	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','Microsoft-Windows-DiskDiagnosticResolver')
+25-Jun-24 13:05:52	insert into tbl_main_alltask(taskid,taskname) values('','Diagnostics')
+25-Jun-24 13:05:52	insert into tbl_main_alltask(taskid,taskname) values('','StorageSense')
+25-Jun-24 13:05:53	insert into tbl_main_alltask(taskid,taskname) values('','dusmtask')
+25-Jun-24 13:05:54	insert into tbl_main_alltask(taskid,taskname) values('','EDP App Launch Task')
+25-Jun-24 13:05:54	insert into tbl_main_alltask(taskid,taskname) values('','EDP Auth Task')
+25-Jun-24 13:05:55	insert into tbl_main_alltask(taskid,taskname) values('','EDP Inaccessible Credentials Task')
+25-Jun-24 13:05:55	insert into tbl_main_alltask(taskid,taskname) values('','StorageCardEncryption Task')
+25-Jun-24 13:05:56	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','ExploitGuard MDM policy Refresh')
+25-Jun-24 13:05:57	insert into tbl_main_alltask(taskid,taskname) values('System Initiated User Feedback','DmClient')
+25-Jun-24 13:05:57	insert into tbl_main_alltask(taskid,taskname) values('System Initiated User Feedback','DmClientOnScenarioDownload')
+25-Jun-24 13:05:58	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','Property Definition Sync')
+25-Jun-24 13:05:59	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','File History (maintenance mode)')
+25-Jun-24 13:05:59	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','ReconcileFeatures')
+25-Jun-24 13:06:00	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','UsageDataFlushing')
+25-Jun-24 13:06:01	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','UsageDataReporting')
+25-Jun-24 13:06:01	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','RefreshCache')
+25-Jun-24 13:06:02	insert into tbl_main_alltask(taskid,taskname) values('','LocalUserSyncDataAvailable')
+25-Jun-24 13:06:03	insert into tbl_main_alltask(taskid,taskname) values('','MouseSyncDataAvailable')
+25-Jun-24 13:06:03	insert into tbl_main_alltask(taskid,taskname) values('','PenSyncDataAvailable')
+25-Jun-24 13:06:04	insert into tbl_main_alltask(taskid,taskname) values('','TouchpadSyncDataAvailable')
+25-Jun-24 13:06:04	insert into tbl_main_alltask(taskid,taskname) values('','ScanForUpdates')
+25-Jun-24 13:06:05	insert into tbl_main_alltask(taskid,taskname) values('','ScanForUpdatesAsUser')
+25-Jun-24 13:06:06	insert into tbl_main_alltask(taskid,taskname) values('','WakeUpAndContinueUpdates')
+25-Jun-24 13:06:06	insert into tbl_main_alltask(taskid,taskname) values('','WakeUpAndScanForUpdates')
+25-Jun-24 13:06:07	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','Synchronize Language Settings')
+25-Jun-24 13:06:08	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','Installation')
+25-Jun-24 13:06:08	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','ReconcileLanguageResources')
+25-Jun-24 13:06:09	insert into tbl_main_alltask(taskid,taskname) values('','Notifications')
+25-Jun-24 13:06:09	insert into tbl_main_alltask(taskid,taskname) values('','WindowsActionDialog')
+25-Jun-24 13:06:10	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Windows System Assessment Tool (WinSAT)','WinSAT')
+25-Jun-24 13:06:11	insert into tbl_main_alltask(taskid,taskname) values('$(@%SystemRoot%\system32\Autopilot.dll,-601)','DetectHardwareChange')
+25-Jun-24 13:06:11	insert into tbl_main_alltask(taskid,taskname) values('$(@%SystemRoot%\system32\Autopilot.dll,-601)','RemediateHardwareChange')
+25-Jun-24 13:06:12	insert into tbl_main_alltask(taskid,taskname) values('','Cellular')
+25-Jun-24 13:06:12	insert into tbl_main_alltask(taskid,taskname) values('','Logon')
+25-Jun-24 13:06:13	insert into tbl_main_alltask(taskid,taskname) values('','Retry')
+25-Jun-24 13:06:14	insert into tbl_main_alltask(taskid,taskname) values('','RunOnReboot')
+25-Jun-24 13:06:14	insert into tbl_main_alltask(taskid,taskname) values('','MapsToastTask')
+25-Jun-24 13:06:15	insert into tbl_main_alltask(taskid,taskname) values('','MapsUpdateTask')
+25-Jun-24 13:06:16	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','ProcessMemoryDiagnosticEvents')
+25-Jun-24 13:06:16	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','RunFullMemoryDiagnostic')
+25-Jun-24 13:06:17	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Windows Mbae Parser','MNO Metadata Parser')
+25-Jun-24 13:06:17	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','LPRemove')
+25-Jun-24 13:06:18	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','SystemSoundsService')
+25-Jun-24 13:06:19	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Windows Network Trace','GatherNetworkInfo')
+25-Jun-24 13:06:20	insert into tbl_main_alltask(taskid,taskname) values('','WiFiTask')
+25-Jun-24 13:06:20	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','Background Synchronization')
+25-Jun-24 13:06:21	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','Logon Synchronization')
+25-Jun-24 13:06:21	insert into tbl_main_alltask(taskid,taskname) values('','SecureBootEncodeUEFI')
+25-Jun-24 13:06:22	insert into tbl_main_alltask(taskid,taskname) values('','Device Install Group Policy')
+25-Jun-24 13:06:23	insert into tbl_main_alltask(taskid,taskname) values('','Device Install Reboot Required')
+25-Jun-24 13:06:23	insert into tbl_main_alltask(taskid,taskname) values('','Sysprep Generalize Drivers')
+25-Jun-24 13:06:24	insert into tbl_main_alltask(taskid,taskname) values('Power Efficiency Diagnostics','AnalyzeSystem')
+25-Jun-24 13:06:25	insert into tbl_main_alltask(taskid,taskname) values('','EduPrintProv')
+25-Jun-24 13:06:25	insert into tbl_main_alltask(taskid,taskname) values('','PrinterCleanupTask')
+25-Jun-24 13:06:26	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','VerifyWinRE')
+25-Jun-24 13:06:28	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','RegIdleBackup')
+25-Jun-24 13:06:29	insert into tbl_main_alltask(taskid,taskname) values('','StartComponentCleanup')
+25-Jun-24 13:06:30	insert into tbl_main_alltask(taskid,taskname) values('','BackgroundUploadTask')
+25-Jun-24 13:06:31	insert into tbl_main_alltask(taskid,taskname) values('','NetworkStateChangeTask')
+25-Jun-24 13:06:32	insert into tbl_main_alltask(taskid,taskname) values('','Account Cleanup')
+25-Jun-24 13:06:33	task already preasentCreateObjectTask
+25-Jun-24 13:06:34	insert into tbl_main_alltask(taskid,taskname) values('Family','FamilySafetyMonitor')
+25-Jun-24 13:06:36	insert into tbl_main_alltask(taskid,taskname) values('Microsoft family features','FamilySafetyRefreshTask')
+25-Jun-24 13:06:37	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','IndexerAutomaticMaintenance')
+25-Jun-24 13:06:37	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','ThemesSyncedImageDownload')
+25-Jun-24 13:06:38	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','SvcRestartTaskLogon')
+25-Jun-24 13:06:39	insert into tbl_main_alltask(taskid,taskname) values('Storage Spaces','SpaceAgentTask')
+25-Jun-24 13:06:40	insert into tbl_main_alltask(taskid,taskname) values('$(@%SystemRoot%\system32\spaceman.exe,-1)','SpaceManagerTask')
+25-Jun-24 13:06:40	insert into tbl_main_alltask(taskid,taskname) values('$(@%SystemRoot%\system32\Windows.StateRepositoryClient.dll,-601)','MaintenanceTasks')
+25-Jun-24 13:06:41	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','Storage Tiers Management Initialization')
+25-Jun-24 13:06:42	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','Storage Tiers Optimization')
+25-Jun-24 13:06:42	insert into tbl_main_alltask(taskid,taskname) values('ClipRenew.exe','EnableLicenseAcquisition')
+25-Jun-24 13:06:43	insert into tbl_main_alltask(taskid,taskname) values('ClipRenew.exe','LicenseAcquisition')
+25-Jun-24 13:06:44	insert into tbl_main_alltask(taskid,taskname) values('','HybridDriveCachePrepopulate')
+25-Jun-24 13:06:44	insert into tbl_main_alltask(taskid,taskname) values('','HybridDriveCacheRebalance')
+25-Jun-24 13:06:45	insert into tbl_main_alltask(taskid,taskname) values('','ResPriStaticDbSync')
+25-Jun-24 13:06:45	insert into tbl_main_alltask(taskid,taskname) values('','WsSwapAssessmentTask')
+25-Jun-24 13:06:46	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','SR')
+25-Jun-24 13:06:47	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','Interactive')
+25-Jun-24 13:06:47	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','MsCtfMonitor')
+25-Jun-24 13:06:48	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','ForceSynchronizeTime')
+25-Jun-24 13:06:49	insert into tbl_main_alltask(taskid,taskname) values('Windows Time','SynchronizeTime')
+25-Jun-24 13:06:49	insert into tbl_main_alltask(taskid,taskname) values('','SynchronizeTimeZone')
+25-Jun-24 13:06:50	insert into tbl_main_alltask(taskid,taskname) values('','RunUpdateNotificationMgr')
+25-Jun-24 13:06:51	insert into tbl_main_alltask(taskid,taskname) values('','UPnPHostConfig')
+25-Jun-24 13:06:51	insert into tbl_main_alltask(taskid,taskname) values('','Usb-Notifications')
+25-Jun-24 13:06:52	task already preasentWiFiTask
+25-Jun-24 13:06:52	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','ResolutionHost')
+25-Jun-24 13:06:53	insert into tbl_main_alltask(taskid,taskname) values('','Windows Defender Cache Maintenance')
+25-Jun-24 13:06:54	insert into tbl_main_alltask(taskid,taskname) values('','Windows Defender Cleanup')
+25-Jun-24 13:06:54	insert into tbl_main_alltask(taskid,taskname) values('','Windows Defender Scheduled Scan')
+25-Jun-24 13:06:55	insert into tbl_main_alltask(taskid,taskname) values('','Windows Defender Verification')
+25-Jun-24 13:06:55	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Windows Error Reporting','QueueReporting')
+25-Jun-24 13:06:56	insert into tbl_main_alltask(taskid,taskname) values('','BfeOnServiceStartTypeChange')
+25-Jun-24 13:06:57	insert into tbl_main_alltask(taskid,taskname) values('','UpdateLibrary')
+25-Jun-24 13:06:57	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','Calibration Loader')
+25-Jun-24 13:06:58	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation.','Scheduled Start')
+25-Jun-24 13:06:59	insert into tbl_main_alltask(taskid,taskname) values('','CacheTask')
+25-Jun-24 13:06:59	insert into tbl_main_alltask(taskid,taskname) values('','CDSSync')
+25-Jun-24 13:07:00	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','Work Folders Logon Synchronization')
+25-Jun-24 13:07:00	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','Work Folders Maintenance Work')
+25-Jun-24 13:07:01	insert into tbl_main_alltask(taskid,taskname) values('','Automatic-Device-Join')
+25-Jun-24 13:07:02	insert into tbl_main_alltask(taskid,taskname) values('Microsoft Corporation','Device-Sync')
+25-Jun-24 13:07:02	insert into tbl_main_alltask(taskid,taskname) values('','Recovery-Check')
+25-Jun-24 13:07:03	insert into tbl_main_alltask(taskid,taskname) values('','NotificationTask')
+25-Jun-24 13:07:04	insert into tbl_main_alltask(taskid,taskname) values('','OobeDiscovery')
+25-Jun-24 13:07:04	insert into tbl_main_alltask(taskid,taskname) values('','XblGameSaveTask')
+25-Jun-24 13:07:05	insert into tbl_main_alltask(taskid,taskname) values('','Firefox Background Update S-1-5-21-4052539082-3249235043-2059780522-1001 A749823778009F0F')
+25-Jun-24 13:07:05	insert into tbl_main_alltask(taskid,taskname) values('','Firefox Default Browser Agent 308046B0AF4A39CB')
+25-Jun-24 13:07:06	insert into tbl_main_alltask(taskid,taskname) values('','Firefox Default Browser Agent A749823778009F0F')
+25-Jun-24 13:08:08	Executing utility at 6/25/2024 1:08:08 PM
+25-Jun-24 13:08:22	task already preasentAdobe Acrobat Update Task
+25-Jun-24 13:08:30	task already preasentAdobe-Genuine-Software-Integrity-Scheduler-1.0
+25-Jun-24 13:08:31	task already preasentAdobeGCInvoker-1.0
+25-Jun-24 13:08:31	task already preasentanshu
+25-Jun-24 13:08:31	task already preasentOneDrive Reporting Task-S-1-5-21-4052539082-3249235043-2059780522-1001
+25-Jun-24 13:08:32	task already preasentOneDrive Standalone Update Task-S-1-5-21-4052539082-3249235043-2059780522-1001
+25-Jun-24 13:08:32	task already preasentsafsg
+25-Jun-24 13:08:32	task already preasentVSIX Auto Update
+25-Jun-24 13:08:33	task already preasentUpdateConfiguration_S-1-5-21-4052539082-3249235043-2059780522-1001
+25-Jun-24 13:08:33	task already preasentUpdateConfiguration_S-1-5-21-4052539082-3249235043-2059780522-1002
+25-Jun-24 13:08:33	task already preasentUpdateConfiguration_S-1-5-80-1325446630-1604430999-376170648-153129477-3068919839
+25-Jun-24 13:08:33	task already preasentUpdateConfiguration_S-1-5-80-1558248044-1593909066-2064011601-2876309908-1898208377
+25-Jun-24 13:08:34	task already preasentUpdateConfiguration_S-1-5-80-1768481418-4243586691-1349411104-1299650809-3159321943
+25-Jun-24 13:08:34	task already preasentUpdateConfiguration_S-1-5-80-1829637061-4289792954-594388474-1141019738-1140273761
+25-Jun-24 13:08:34	task already preasentUpdateConfiguration_S-1-5-80-1899634293-1740304806-2887984933-505496300-1155962382
+25-Jun-24 13:08:35	task already preasentUpdateConfiguration_S-1-5-80-1985561900-798682989-2213159822-1904180398-3434236965
+25-Jun-24 13:08:35	task already preasentUpdateConfiguration_S-1-5-80-2153795431-3439670559-4211332317-2177827265-2821837002
+25-Jun-24 13:08:35	task already preasentUpdateConfiguration_S-1-5-80-2575449109-2369498003-86869817-2770163484-1998650617
+25-Jun-24 13:08:35	task already preasentUpdateConfiguration_S-1-5-80-2652535364-2169709536-2857650723-2622804123-1107741775
+25-Jun-24 13:08:36	task already preasentUpdateConfiguration_S-1-5-80-309224134-970686483-1999427595-3240087295-3167920316
+25-Jun-24 13:08:36	task already preasentUpdateConfiguration_S-1-5-80-3404462892-1987791245-2451609587-3755554482-3689831200
+25-Jun-24 13:08:36	task already preasentUpdateConfiguration_S-1-5-80-374725556-3612212497-2365472278-3259944318-2763227505
+25-Jun-24 13:08:37	task already preasentUpdateConfiguration_S-1-5-80-3880006512-4290199581-1648723128-3569869737-3631323133
+25-Jun-24 13:08:37	task already preasentUpdateConfiguration_S-1-5-80-3880718306-3832830129-1677859214-2598158968-1052248003
+25-Jun-24 13:08:37	task already preasentUpdateConfiguration_S-1-5-80-3985847660-2753231750-3124710427-4002290793-1281732417
+25-Jun-24 13:08:37	task already preasentUpdateConfiguration_S-1-5-80-418207337-3061451207-1180287332-530680628-2707783206
+25-Jun-24 13:08:38	task already preasentUpdateConfiguration_S-1-5-80-4221218650-3734044757-384929471-3242703948-1535012119
+25-Jun-24 13:08:38	task already preasentUpdateConfiguration_S-1-5-80-684135558-66954648-645343295-865517114-2956913369
+25-Jun-24 13:08:38	task already preasent.NET Framework NGEN v4.0.30319
+25-Jun-24 13:08:39	task already preasent.NET Framework NGEN v4.0.30319 64
+25-Jun-24 13:08:39	task already preasent.NET Framework NGEN v4.0.30319 64 Critical
+25-Jun-24 13:08:39	task already preasent.NET Framework NGEN v4.0.30319 Critical
+25-Jun-24 13:08:40	task already preasentAD RMS Rights Policy Template Management (Automated)
+25-Jun-24 13:08:40	task already preasentAD RMS Rights Policy Template Management (Manual)
+25-Jun-24 13:08:40	task already preasentPolicyConverter
+25-Jun-24 13:08:41	task already preasentVerifiedPublisherCertStoreCheck
+25-Jun-24 13:08:41	task already preasentMareBackup
+25-Jun-24 13:08:41	task already preasentMicrosoft Compatibility Appraiser
+25-Jun-24 13:08:41	task already preasentPcaPatchDbTask
+25-Jun-24 13:08:42	task already preasentProgramDataUpdater
+25-Jun-24 13:08:42	task already preasentStartupAppTask
+25-Jun-24 13:08:42	task already preasentappuriverifierdaily
+25-Jun-24 13:08:43	task already preasentappuriverifierinstall
+25-Jun-24 13:08:43	task already preasentCleanupTemporaryState
+25-Jun-24 13:08:43	task already preasentDsSvcCleanup
+25-Jun-24 13:08:43	task already preasentBackup
+25-Jun-24 13:08:44	task already preasentBackupNonMaintenance
+25-Jun-24 13:08:44	task already preasentPre-staged app cleanup
+25-Jun-24 13:08:44	task already preasentProxy
+25-Jun-24 13:08:45	task already preasentBitLocker Encrypt All Drives
+25-Jun-24 13:08:45	task already preasentBitLocker MDM policy Refresh
+25-Jun-24 13:08:45	task already preasentUninstallDeviceTask
+25-Jun-24 13:08:46	task already preasentBgTaskRegistrationMaintenanceTask
+25-Jun-24 13:08:46	task already preasentUserTask
+25-Jun-24 13:08:46	task already preasentUserTask-Roam
+25-Jun-24 13:08:46	task already preasentProactiveScan
+25-Jun-24 13:08:47	task already preasentSyspartRepair
+25-Jun-24 13:08:47	task already preasentLicenseImdsIntegration
+25-Jun-24 13:08:47	task already preasentCreateObjectTask
+25-Jun-24 13:08:48	task already preasentBackup
+25-Jun-24 13:08:48	task already preasentUnifiedConsentSyncTask
+25-Jun-24 13:08:48	task already preasentConsolidator
+25-Jun-24 13:08:48	task already preasentUsbCeip
+25-Jun-24 13:08:49	task already preasentData Integrity Check And Scan
+25-Jun-24 13:08:49	task already preasentData Integrity Scan
+25-Jun-24 13:08:49	task already preasentData Integrity Scan for Crash Recovery
+25-Jun-24 13:08:50	task already preasentScheduledDefrag
+25-Jun-24 13:08:50	task already preasentDevice
+25-Jun-24 13:08:50	task already preasentDevice User
+25-Jun-24 13:08:51	task already preasentRecommendedTroubleshootingScanner
+25-Jun-24 13:08:51	task already preasentScheduled
+25-Jun-24 13:08:51	task already preasentDirectXDatabaseUpdater
+25-Jun-24 13:08:51	task already preasentDXGIAdapterCache
+25-Jun-24 13:08:52	task already preasentSilentCleanup
+25-Jun-24 13:08:52	task already preasentMicrosoft-Windows-DiskDiagnosticDataCollector
+25-Jun-24 13:08:52	task already preasentMicrosoft-Windows-DiskDiagnosticResolver
+25-Jun-24 13:08:53	task already preasentDiagnostics
+25-Jun-24 13:08:53	task already preasentStorageSense
+25-Jun-24 13:08:53	task already preasentdusmtask
+25-Jun-24 13:08:53	task already preasentEDP App Launch Task
+25-Jun-24 13:08:54	task already preasentEDP Auth Task
+25-Jun-24 13:08:54	task already preasentEDP Inaccessible Credentials Task
+25-Jun-24 13:08:54	task already preasentStorageCardEncryption Task
+25-Jun-24 13:08:55	task already preasentExploitGuard MDM policy Refresh
+25-Jun-24 13:08:55	task already preasentDmClient
+25-Jun-24 13:08:55	task already preasentDmClientOnScenarioDownload
+25-Jun-24 13:08:56	task already preasentProperty Definition Sync
+25-Jun-24 13:08:56	task already preasentFile History (maintenance mode)
+25-Jun-24 13:08:56	task already preasentReconcileFeatures
+25-Jun-24 13:08:56	task already preasentUsageDataFlushing
+25-Jun-24 13:08:57	task already preasentUsageDataReporting
+25-Jun-24 13:08:57	task already preasentRefreshCache
+25-Jun-24 13:08:57	task already preasentLocalUserSyncDataAvailable
+25-Jun-24 13:08:58	task already preasentMouseSyncDataAvailable
+25-Jun-24 13:08:58	task already preasentPenSyncDataAvailable
+25-Jun-24 13:08:58	task already preasentTouchpadSyncDataAvailable
+25-Jun-24 13:08:58	task already preasentScanForUpdates
+25-Jun-24 13:08:59	task already preasentScanForUpdatesAsUser
+25-Jun-24 13:08:59	task already preasentWakeUpAndContinueUpdates
+25-Jun-24 13:08:59	task already preasentWakeUpAndScanForUpdates
+25-Jun-24 13:09:00	task already preasentSynchronize Language Settings
+25-Jun-24 13:09:00	task already preasentInstallation
+25-Jun-24 13:09:00	task already preasentReconcileLanguageResources
+25-Jun-24 13:09:00	task already preasentNotifications
+25-Jun-24 13:09:01	task already preasentWindowsActionDialog
+25-Jun-24 13:09:01	task already preasentWinSAT
+25-Jun-24 13:09:01	task already preasentDetectHardwareChange
+25-Jun-24 13:09:02	task already preasentRemediateHardwareChange
+25-Jun-24 13:09:02	task already preasentCellular
+25-Jun-24 13:09:02	task already preasentLogon
+25-Jun-24 13:09:03	task already preasentRetry
+25-Jun-24 13:09:03	task already preasentRunOnReboot
+25-Jun-24 13:09:03	task already preasentMapsToastTask
+25-Jun-24 13:09:03	task already preasentMapsUpdateTask
+25-Jun-24 13:09:04	task already preasentProcessMemoryDiagnosticEvents
+25-Jun-24 13:09:04	task already preasentRunFullMemoryDiagnostic
+25-Jun-24 13:09:04	task already preasentMNO Metadata Parser
+25-Jun-24 13:09:05	task already preasentLPRemove
+25-Jun-24 13:09:05	task already preasentSystemSoundsService
+25-Jun-24 13:09:05	task already preasentGatherNetworkInfo
+25-Jun-24 13:09:05	task already preasentWiFiTask
+25-Jun-24 13:09:06	task already preasentBackground Synchronization
+25-Jun-24 13:09:06	task already preasentLogon Synchronization
+25-Jun-24 13:09:06	task already preasentSecureBootEncodeUEFI
+25-Jun-24 13:09:07	task already preasentDevice Install Group Policy
+25-Jun-24 13:09:07	task already preasentDevice Install Reboot Required
+25-Jun-24 13:09:07	task already preasentSysprep Generalize Drivers
+25-Jun-24 13:09:07	task already preasentAnalyzeSystem
+25-Jun-24 13:09:08	task already preasentEduPrintProv
+25-Jun-24 13:09:08	task already preasentPrinterCleanupTask
+25-Jun-24 13:09:08	task already preasentVerifyWinRE
+25-Jun-24 13:09:09	task already preasentRegIdleBackup
+25-Jun-24 13:09:09	task already preasentStartComponentCleanup
+25-Jun-24 13:09:09	task already preasentBackgroundUploadTask
+25-Jun-24 13:09:10	task already preasentNetworkStateChangeTask
+25-Jun-24 13:09:10	task already preasentAccount Cleanup
+25-Jun-24 13:09:10	task already preasentCreateObjectTask
+25-Jun-24 13:09:10	task already preasentFamilySafetyMonitor
+25-Jun-24 13:09:11	task already preasentFamilySafetyRefreshTask
+25-Jun-24 13:09:11	task already preasentIndexerAutomaticMaintenance
+25-Jun-24 13:09:11	task already preasentThemesSyncedImageDownload
+25-Jun-24 13:09:12	task already preasentSvcRestartTaskLogon
+25-Jun-24 13:09:12	task already preasentSpaceAgentTask
+25-Jun-24 13:09:12	task already preasentSpaceManagerTask
+25-Jun-24 13:09:12	task already preasentMaintenanceTasks
+25-Jun-24 13:09:13	task already preasentStorage Tiers Management Initialization
+25-Jun-24 13:09:13	task already preasentStorage Tiers Optimization
+25-Jun-24 13:09:13	task already preasentEnableLicenseAcquisition
+25-Jun-24 13:09:14	task already preasentLicenseAcquisition
+25-Jun-24 13:09:14	task already preasentHybridDriveCachePrepopulate
+25-Jun-24 13:09:14	task already preasentHybridDriveCacheRebalance
+25-Jun-24 13:09:14	task already preasentResPriStaticDbSync
+25-Jun-24 13:09:15	task already preasentWsSwapAssessmentTask
+25-Jun-24 13:09:15	task already preasentSR
+25-Jun-24 13:09:15	task already preasentInteractive
+25-Jun-24 13:09:16	task already preasentMsCtfMonitor
+25-Jun-24 13:09:16	task already preasentForceSynchronizeTime
+25-Jun-24 13:09:16	task already preasentSynchronizeTime
+25-Jun-24 13:09:17	task already preasentSynchronizeTimeZone
+25-Jun-24 13:09:17	task already preasentRunUpdateNotificationMgr
+25-Jun-24 13:09:17	task already preasentUPnPHostConfig
+25-Jun-24 13:09:17	task already preasentUsb-Notifications
+25-Jun-24 13:09:18	task already preasentWiFiTask
+25-Jun-24 13:09:18	task already preasentResolutionHost
+25-Jun-24 13:09:18	task already preasentWindows Defender Cache Maintenance
+25-Jun-24 13:09:19	task already preasentWindows Defender Cleanup
+25-Jun-24 13:09:19	task already preasentWindows Defender Scheduled Scan
+25-Jun-24 13:09:19	task already preasentWindows Defender Verification
+25-Jun-24 13:09:20	task already preasentQueueReporting
+25-Jun-24 13:09:20	task already preasentBfeOnServiceStartTypeChange
+25-Jun-24 13:09:20	task already preasentUpdateLibrary
+25-Jun-24 13:09:21	task already preasentCalibration Loader
+25-Jun-24 13:09:21	task already preasentScheduled Start
+25-Jun-24 13:09:21	task already preasentCacheTask
+25-Jun-24 13:09:21	task already preasentCDSSync
+25-Jun-24 13:09:22	task already preasentWork Folders Logon Synchronization
+25-Jun-24 13:09:22	task already preasentWork Folders Maintenance Work
+25-Jun-24 13:09:22	task already preasentAutomatic-Device-Join
+25-Jun-24 13:09:23	task already preasentDevice-Sync
+25-Jun-24 13:09:23	task already preasentRecovery-Check
+25-Jun-24 13:09:23	task already preasentNotificationTask
+25-Jun-24 13:22:18	Executing utility at 6/25/2024 1:22:18 PM
+25-Jun-24 13:22:37	task already preasentAdobe Acrobat Update Task
+25-Jun-24 13:22:38	task already preasentAdobe-Genuine-Software-Integrity-Scheduler-1.0
+25-Jun-24 13:22:38	task already preasentAdobeGCInvoker-1.0
+25-Jun-24 13:22:38	task already preasentanshu
+25-Jun-24 13:22:39	task already preasentOneDrive Reporting Task-S-1-5-21-4052539082-3249235043-2059780522-1001
+25-Jun-24 13:22:39	task already preasentOneDrive Standalone Update Task-S-1-5-21-4052539082-3249235043-2059780522-1001
+25-Jun-24 13:22:39	task already preasentsafsg
+25-Jun-24 13:22:40	task already preasentVSIX Auto Update
+25-Jun-24 13:22:40	task already preasentUpdateConfiguration_S-1-5-21-4052539082-3249235043-2059780522-1001
+25-Jun-24 13:22:40	task already preasentUpdateConfiguration_S-1-5-21-4052539082-3249235043-2059780522-1002
+25-Jun-24 13:22:41	task already preasentUpdateConfiguration_S-1-5-80-1325446630-1604430999-376170648-153129477-3068919839
+25-Jun-24 13:22:41	task already preasentUpdateConfiguration_S-1-5-80-1558248044-1593909066-2064011601-2876309908-1898208377
+25-Jun-24 13:22:41	task already preasentUpdateConfiguration_S-1-5-80-1768481418-4243586691-1349411104-1299650809-3159321943
+25-Jun-24 13:22:41	task already preasentUpdateConfiguration_S-1-5-80-1829637061-4289792954-594388474-1141019738-1140273761
+25-Jun-24 13:22:42	task already preasentUpdateConfiguration_S-1-5-80-1899634293-1740304806-2887984933-505496300-1155962382
+25-Jun-24 13:22:42	task already preasentUpdateConfiguration_S-1-5-80-1985561900-798682989-2213159822-1904180398-3434236965
+25-Jun-24 13:22:42	task already preasentUpdateConfiguration_S-1-5-80-2153795431-3439670559-4211332317-2177827265-2821837002
+25-Jun-24 13:22:43	task already preasentUpdateConfiguration_S-1-5-80-2575449109-2369498003-86869817-2770163484-1998650617
+25-Jun-24 13:22:43	task already preasentUpdateConfiguration_S-1-5-80-2652535364-2169709536-2857650723-2622804123-1107741775
+25-Jun-24 13:22:43	task already preasentUpdateConfiguration_S-1-5-80-309224134-970686483-1999427595-3240087295-3167920316
+25-Jun-24 13:22:43	task already preasentUpdateConfiguration_S-1-5-80-3404462892-1987791245-2451609587-3755554482-3689831200
+25-Jun-24 13:22:44	task already preasentUpdateConfiguration_S-1-5-80-374725556-3612212497-2365472278-3259944318-2763227505
+25-Jun-24 13:22:44	task already preasentUpdateConfiguration_S-1-5-80-3880006512-4290199581-1648723128-3569869737-3631323133
+25-Jun-24 13:22:44	task already preasentUpdateConfiguration_S-1-5-80-3880718306-3832830129-1677859214-2598158968-1052248003
+25-Jun-24 13:22:45	task already preasentUpdateConfiguration_S-1-5-80-3985847660-2753231750-3124710427-4002290793-1281732417
+25-Jun-24 13:22:45	task already preasentUpdateConfiguration_S-1-5-80-418207337-3061451207-1180287332-530680628-2707783206
+25-Jun-24 13:22:45	task already preasentUpdateConfiguration_S-1-5-80-4221218650-3734044757-384929471-3242703948-1535012119
+25-Jun-24 13:22:46	task already preasentUpdateConfiguration_S-1-5-80-684135558-66954648-645343295-865517114-2956913369
+25-Jun-24 13:22:46	task already preasent.NET Framework NGEN v4.0.30319
+25-Jun-24 13:22:46	task already preasent.NET Framework NGEN v4.0.30319 64
+25-Jun-24 13:22:47	task already preasent.NET Framework NGEN v4.0.30319 64 Critical
+25-Jun-24 13:22:47	task already preasent.NET Framework NGEN v4.0.30319 Critical
+25-Jun-24 13:22:47	task already preasentAD RMS Rights Policy Template Management (Automated)
+25-Jun-24 13:22:47	task already preasentAD RMS Rights Policy Template Management (Manual)
+25-Jun-24 13:22:48	task already preasentPolicyConverter
+25-Jun-24 13:22:48	task already preasentVerifiedPublisherCertStoreCheck
+25-Jun-24 13:22:48	task already preasentMareBackup
+25-Jun-24 13:22:49	task already preasentMicrosoft Compatibility Appraiser
+25-Jun-24 13:22:49	task already preasentPcaPatchDbTask
+25-Jun-24 13:22:49	task already preasentProgramDataUpdater
+25-Jun-24 13:22:50	task already preasentStartupAppTask
+25-Jun-24 13:22:50	task already preasentappuriverifierdaily
+25-Jun-24 13:22:50	task already preasentappuriverifierinstall
+25-Jun-24 13:22:51	task already preasentCleanupTemporaryState
+25-Jun-24 13:22:51	task already preasentDsSvcCleanup
+25-Jun-24 13:22:51	task already preasentBackup
+25-Jun-24 13:22:51	task already preasentBackupNonMaintenance
+25-Jun-24 13:22:52	task already preasentPre-staged app cleanup
+25-Jun-24 13:22:52	task already preasentProxy
+25-Jun-24 13:22:52	task already preasentBitLocker Encrypt All Drives
+25-Jun-24 13:22:53	task already preasentBitLocker MDM policy Refresh
+25-Jun-24 13:22:53	task already preasentUninstallDeviceTask
+25-Jun-24 13:22:53	task already preasentBgTaskRegistrationMaintenanceTask
+25-Jun-24 13:22:54	task already preasentUserTask
+25-Jun-24 13:22:54	task already preasentUserTask-Roam
+25-Jun-24 13:22:54	task already preasentProactiveScan
+25-Jun-24 13:22:54	task already preasentSyspartRepair
+25-Jun-24 13:22:55	task already preasentLicenseImdsIntegration
+25-Jun-24 13:22:55	task already preasentCreateObjectTask
+25-Jun-24 13:22:55	task already preasentBackup
+25-Jun-24 13:22:56	task already preasentUnifiedConsentSyncTask
+25-Jun-24 13:22:56	task already preasentConsolidator
+25-Jun-24 13:22:56	task already preasentUsbCeip
+25-Jun-24 13:22:57	task already preasentData Integrity Check And Scan
+25-Jun-24 13:22:57	task already preasentData Integrity Scan
+25-Jun-24 13:22:57	task already preasentData Integrity Scan for Crash Recovery
+25-Jun-24 13:22:57	task already preasentScheduledDefrag
+25-Jun-24 13:22:58	task already preasentDevice
+25-Jun-24 13:22:58	task already preasentDevice User
+25-Jun-24 13:22:58	task already preasentRecommendedTroubleshootingScanner
+25-Jun-24 13:22:59	task already preasentScheduled
+25-Jun-24 13:22:59	task already preasentDirectXDatabaseUpdater
+25-Jun-24 13:22:59	task already preasentDXGIAdapterCache
+25-Jun-24 13:23:00	task already preasentSilentCleanup
+25-Jun-24 13:23:00	task already preasentMicrosoft-Windows-DiskDiagnosticDataCollector
+25-Jun-24 13:23:00	task already preasentMicrosoft-Windows-DiskDiagnosticResolver
+25-Jun-24 13:23:01	task already preasentDiagnostics
+25-Jun-24 13:23:01	task already preasentStorageSense
+25-Jun-24 13:23:01	task already preasentdusmtask
+25-Jun-24 13:23:01	task already preasentEDP App Launch Task
+25-Jun-24 13:23:02	task already preasentEDP Auth Task
+25-Jun-24 13:23:02	task already preasentEDP Inaccessible Credentials Task
+25-Jun-24 13:23:02	task already preasentStorageCardEncryption Task
+25-Jun-24 13:23:03	task already preasentExploitGuard MDM policy Refresh
+25-Jun-24 13:23:03	task already preasentDmClient
+25-Jun-24 13:23:03	task already preasentDmClientOnScenarioDownload
+25-Jun-24 13:23:04	task already preasentProperty Definition Sync
+25-Jun-24 13:23:04	task already preasentFile History (maintenance mode)
+25-Jun-24 13:23:04	task already preasentReconcileFeatures
+25-Jun-24 13:23:05	task already preasentUsageDataFlushing
+25-Jun-24 13:23:05	task already preasentUsageDataReporting
+25-Jun-24 13:23:05	task already preasentRefreshCache
+25-Jun-24 13:23:05	task already preasentLocalUserSyncDataAvailable
+25-Jun-24 13:23:06	task already preasentMouseSyncDataAvailable
+25-Jun-24 13:23:06	task already preasentPenSyncDataAvailable
+25-Jun-24 13:23:06	task already preasentTouchpadSyncDataAvailable
+25-Jun-24 13:23:07	task already preasentScanForUpdates
+25-Jun-24 13:23:07	task already preasentScanForUpdatesAsUser
+25-Jun-24 13:23:07	task already preasentWakeUpAndContinueUpdates
+25-Jun-24 13:23:07	task already preasentWakeUpAndScanForUpdates
+25-Jun-24 13:23:08	task already preasentSynchronize Language Settings
+25-Jun-24 13:23:08	task already preasentInstallation
+25-Jun-24 13:23:08	task already preasentReconcileLanguageResources
+25-Jun-24 13:23:09	task already preasentNotifications
+25-Jun-24 13:23:09	task already preasentWindowsActionDialog
+25-Jun-24 13:23:09	task already preasentWinSAT
+25-Jun-24 13:23:10	task already preasentDetectHardwareChange
+25-Jun-24 13:23:10	task already preasentRemediateHardwareChange
+25-Jun-24 13:23:10	task already preasentCellular
+25-Jun-24 13:23:10	task already preasentLogon
+25-Jun-24 13:23:11	task already preasentRetry
+25-Jun-24 13:23:11	task already preasentRunOnReboot
+25-Jun-24 13:23:12	task already preasentMapsToastTask
+25-Jun-24 13:23:12	task already preasentMapsUpdateTask
+25-Jun-24 13:23:12	task already preasentProcessMemoryDiagnosticEvents
+25-Jun-24 13:23:13	task already preasentRunFullMemoryDiagnostic
+25-Jun-24 13:23:13	task already preasentMNO Metadata Parser
+25-Jun-24 13:23:13	task already preasentLPRemove
+25-Jun-24 13:23:14	task already preasentSystemSoundsService
+25-Jun-24 13:23:14	task already preasentGatherNetworkInfo
+25-Jun-24 13:23:14	task already preasentWiFiTask
+25-Jun-24 13:23:15	task already preasentBackground Synchronization
+25-Jun-24 13:23:15	task already preasentLogon Synchronization
+25-Jun-24 13:23:15	task already preasentSecureBootEncodeUEFI
+25-Jun-24 13:23:15	task already preasentDevice Install Group Policy
+25-Jun-24 13:23:16	task already preasentDevice Install Reboot Required
+25-Jun-24 13:23:16	task already preasentSysprep Generalize Drivers
+25-Jun-24 13:23:16	task already preasentAnalyzeSystem
+25-Jun-24 13:23:17	task already preasentEduPrintProv
+25-Jun-24 13:23:17	task already preasentPrinterCleanupTask
+25-Jun-24 13:23:17	task already preasentVerifyWinRE
+25-Jun-24 13:23:18	task already preasentRegIdleBackup
+25-Jun-24 13:23:18	task already preasentStartComponentCleanup
+25-Jun-24 13:23:18	task already preasentBackgroundUploadTask
+25-Jun-24 13:23:18	task already preasentNetworkStateChangeTask
+25-Jun-24 13:23:19	task already preasentAccount Cleanup
+25-Jun-24 13:23:19	task already preasentCreateObjectTask
+25-Jun-24 13:23:19	task already preasentFamilySafetyMonitor
+25-Jun-24 13:23:20	task already preasentFamilySafetyRefreshTask
+25-Jun-24 13:23:20	task already preasentIndexerAutomaticMaintenance
+25-Jun-24 13:23:20	task already preasentThemesSyncedImageDownload
+25-Jun-24 13:23:21	task already preasentSvcRestartTaskLogon
+25-Jun-24 13:23:21	task already preasentSpaceAgentTask
+25-Jun-24 13:23:21	task already preasentSpaceManagerTask
+25-Jun-24 13:23:21	task already preasentMaintenanceTasks
+25-Jun-24 13:23:22	task already preasentStorage Tiers Management Initialization
+25-Jun-24 13:23:22	task already preasentStorage Tiers Optimization
+25-Jun-24 13:23:22	task already preasentEnableLicenseAcquisition
+25-Jun-24 13:23:23	task already preasentLicenseAcquisition
+25-Jun-24 13:23:23	task already preasentHybridDriveCachePrepopulate
+25-Jun-24 13:23:23	task already preasentHybridDriveCacheRebalance
+25-Jun-24 13:23:24	task already preasentResPriStaticDbSync
+25-Jun-24 13:23:24	task already preasentWsSwapAssessmentTask
+25-Jun-24 13:23:24	task already preasentSR
+25-Jun-24 13:23:24	task already preasentInteractive
+25-Jun-24 13:23:25	task already preasentMsCtfMonitor
+25-Jun-24 13:23:25	task already preasentForceSynchronizeTime
+25-Jun-24 13:23:25	task already preasentSynchronizeTime
+25-Jun-24 13:23:26	task already preasentSynchronizeTimeZone
+25-Jun-24 13:23:26	task already preasentRunUpdateNotificationMgr
+25-Jun-24 13:23:26	task already preasentUPnPHostConfig
+25-Jun-24 13:23:27	task already preasentUsb-Notifications
+25-Jun-24 13:23:27	task already preasentWiFiTask
+25-Jun-24 13:23:27	task already preasentResolutionHost
+25-Jun-24 13:23:27	task already preasentWindows Defender Cache Maintenance
+25-Jun-24 13:23:28	task already preasentWindows Defender Cleanup
+25-Jun-24 13:23:28	task already preasentWindows Defender Scheduled Scan
+25-Jun-24 13:23:28	task already preasentWindows Defender Verification
+25-Jun-24 13:23:29	task already preasentQueueReporting
+25-Jun-24 13:23:29	task already preasentBfeOnServiceStartTypeChange
+25-Jun-24 13:23:29	task already preasentUpdateLibrary
+25-Jun-24 13:23:30	task already preasentCalibration Loader
+25-Jun-24 13:23:30	task already preasentScheduled Start
+25-Jun-24 13:23:30	task already preasentCacheTask
+25-Jun-24 13:23:30	task already preasentCDSSync
+25-Jun-24 13:23:31	task already preasentWork Folders Logon Synchronization
+25-Jun-24 13:23:31	task already preasentWork Folders Maintenance Work
+25-Jun-24 13:23:31	task already preasentAutomatic-Device-Join
+25-Jun-24 13:23:32	task already preasentDevice-Sync
+25-Jun-24 13:23:32	task already preasentRecovery-Check
+25-Jun-24 13:23:32	task already preasentNotificationTask
+25-Jun-24 13:23:33	task already preasentOobeDiscovery
+25-Jun-24 13:23:33	task already preasentXblGameSaveTask
+25-Jun-24 13:23:33	task already preasentFirefox Background Update S-1-5-21-4052539082-3249235043-2059780522-1001 A749823778009F0F
+25-Jun-24 13:23:34	task already preasentFirefox Default Browser Agent 308046B0AF4A39CB
+25-Jun-24 13:23:34	task already preasentFirefox Default Browser Agent A749823778009F0F
+25-Jun-24 13:33:39	Executing utility at 6/25/2024 1:33:39 PM
+25-Jun-24 13:34:09	task already preasentAdobe Acrobat Update Task
+25-Jun-24 13:34:10	task already preasentAdobe-Genuine-Software-Integrity-Scheduler-1.0
+25-Jun-24 13:34:10	task already preasentAdobeGCInvoker-1.0
+25-Jun-24 13:34:10	task already preasentanshu
+25-Jun-24 13:34:10	task already preasentOneDrive Reporting Task-S-1-5-21-4052539082-3249235043-2059780522-1001
+25-Jun-24 13:34:11	task already preasentOneDrive Standalone Update Task-S-1-5-21-4052539082-3249235043-2059780522-1001
+25-Jun-24 13:34:11	task already preasentsafsg
+25-Jun-24 13:34:11	task already preasentVSIX Auto Update
+25-Jun-24 13:34:12	task already preasentUpdateConfiguration_S-1-5-21-4052539082-3249235043-2059780522-1001
+25-Jun-24 13:34:12	task already preasentUpdateConfiguration_S-1-5-21-4052539082-3249235043-2059780522-1002
+25-Jun-24 13:34:12	task already preasentUpdateConfiguration_S-1-5-80-1325446630-1604430999-376170648-153129477-3068919839
+25-Jun-24 13:34:13	task already preasentUpdateConfiguration_S-1-5-80-1558248044-1593909066-2064011601-2876309908-1898208377
+25-Jun-24 13:34:13	task already preasentUpdateConfiguration_S-1-5-80-1768481418-4243586691-1349411104-1299650809-3159321943
+25-Jun-24 13:34:13	task already preasentUpdateConfiguration_S-1-5-80-1829637061-4289792954-594388474-1141019738-1140273761
+25-Jun-24 13:34:13	task already preasentUpdateConfiguration_S-1-5-80-1899634293-1740304806-2887984933-505496300-1155962382
+25-Jun-24 13:34:14	task already preasentUpdateConfiguration_S-1-5-80-1985561900-798682989-2213159822-1904180398-3434236965
+25-Jun-24 13:34:14	task already preasentUpdateConfiguration_S-1-5-80-2153795431-3439670559-4211332317-2177827265-2821837002
+25-Jun-24 13:34:14	task already preasentUpdateConfiguration_S-1-5-80-2575449109-2369498003-86869817-2770163484-1998650617
+25-Jun-24 13:34:15	task already preasentUpdateConfiguration_S-1-5-80-2652535364-2169709536-2857650723-2622804123-1107741775
+25-Jun-24 13:34:15	task already preasentUpdateConfiguration_S-1-5-80-309224134-970686483-1999427595-3240087295-3167920316
+25-Jun-24 13:34:15	task already preasentUpdateConfiguration_S-1-5-80-3404462892-1987791245-2451609587-3755554482-3689831200
+25-Jun-24 13:34:16	task already preasentUpdateConfiguration_S-1-5-80-374725556-3612212497-2365472278-3259944318-2763227505
+25-Jun-24 13:34:16	task already preasentUpdateConfiguration_S-1-5-80-3880006512-4290199581-1648723128-3569869737-3631323133
+25-Jun-24 13:34:16	task already preasentUpdateConfiguration_S-1-5-80-3880718306-3832830129-1677859214-2598158968-1052248003
+25-Jun-24 13:34:16	task already preasentUpdateConfiguration_S-1-5-80-3985847660-2753231750-3124710427-4002290793-1281732417
+25-Jun-24 13:34:17	task already preasentUpdateConfiguration_S-1-5-80-418207337-3061451207-1180287332-530680628-2707783206
+25-Jun-24 13:34:17	task already preasentUpdateConfiguration_S-1-5-80-4221218650-3734044757-384929471-3242703948-1535012119
+25-Jun-24 13:34:17	task already preasentUpdateConfiguration_S-1-5-80-684135558-66954648-645343295-865517114-2956913369
+25-Jun-24 13:34:18	task already preasent.NET Framework NGEN v4.0.30319
+25-Jun-24 13:34:18	task already preasent.NET Framework NGEN v4.0.30319 64
+25-Jun-24 13:34:18	task already preasent.NET Framework NGEN v4.0.30319 64 Critical
+25-Jun-24 13:34:19	task already preasent.NET Framework NGEN v4.0.30319 Critical
+25-Jun-24 13:34:19	task already preasentAD RMS Rights Policy Template Management (Automated)
+25-Jun-24 13:34:19	task already preasentAD RMS Rights Policy Template Management (Manual)
+25-Jun-24 13:34:20	task already preasentPolicyConverter
+25-Jun-24 13:34:20	task already preasentVerifiedPublisherCertStoreCheck
+25-Jun-24 13:34:20	task already preasentMareBackup
+25-Jun-24 13:34:20	task already preasentMicrosoft Compatibility Appraiser
+25-Jun-24 13:34:21	task already preasentPcaPatchDbTask
+25-Jun-24 13:34:21	task already preasentProgramDataUpdater
+25-Jun-24 13:34:21	task already preasentStartupAppTask
+25-Jun-24 13:34:22	task already preasentappuriverifierdaily
+25-Jun-24 13:34:22	task already preasentappuriverifierinstall
+25-Jun-24 13:34:22	task already preasentCleanupTemporaryState
+25-Jun-24 13:34:23	task already preasentDsSvcCleanup
+25-Jun-24 13:34:23	task already preasentBackup
+25-Jun-24 13:34:23	task already preasentBackupNonMaintenance
+25-Jun-24 13:34:23	task already preasentPre-staged app cleanup
+25-Jun-24 13:34:24	task already preasentProxy
+25-Jun-24 13:34:24	task already preasentBitLocker Encrypt All Drives
+25-Jun-24 13:34:24	task already preasentBitLocker MDM policy Refresh
+25-Jun-24 13:34:25	task already preasentUninstallDeviceTask
+25-Jun-24 13:34:25	task already preasentBgTaskRegistrationMaintenanceTask
+25-Jun-24 13:34:25	task already preasentUserTask
+25-Jun-24 13:34:26	task already preasentUserTask-Roam
+25-Jun-24 13:34:26	task already preasentProactiveScan
+25-Jun-24 13:34:26	task already preasentSyspartRepair
+25-Jun-24 13:34:26	task already preasentLicenseImdsIntegration
+25-Jun-24 13:34:27	task already preasentCreateObjectTask
+25-Jun-24 13:34:27	task already preasentBackup
+25-Jun-24 13:34:27	task already preasentUnifiedConsentSyncTask
+25-Jun-24 13:34:28	task already preasentConsolidator
+25-Jun-24 13:34:28	task already preasentUsbCeip
+25-Jun-24 13:34:28	task already preasentData Integrity Check And Scan
+25-Jun-24 13:34:28	task already preasentData Integrity Scan
+25-Jun-24 13:34:29	task already preasentData Integrity Scan for Crash Recovery
+25-Jun-24 13:34:29	task already preasentScheduledDefrag
+25-Jun-24 13:34:29	task already preasentDevice
+25-Jun-24 13:34:30	task already preasentDevice User
+25-Jun-24 13:34:30	task already preasentRecommendedTroubleshootingScanner
+25-Jun-24 13:34:30	task already preasentScheduled
+25-Jun-24 13:34:31	task already preasentDirectXDatabaseUpdater
+25-Jun-24 13:34:31	task already preasentDXGIAdapterCache
+25-Jun-24 13:34:31	task already preasentSilentCleanup
+25-Jun-24 13:34:31	task already preasentMicrosoft-Windows-DiskDiagnosticDataCollector
+25-Jun-24 13:34:32	task already preasentMicrosoft-Windows-DiskDiagnosticResolver
+25-Jun-24 13:34:32	task already preasentDiagnostics
+25-Jun-24 13:34:32	task already preasentStorageSense
+25-Jun-24 13:34:33	task already preasentdusmtask
+25-Jun-24 13:34:33	task already preasentEDP App Launch Task
+25-Jun-24 13:34:33	task already preasentEDP Auth Task
+25-Jun-24 13:34:34	task already preasentEDP Inaccessible Credentials Task
+25-Jun-24 13:34:34	task already preasentStorageCardEncryption Task
+25-Jun-24 13:34:34	task already preasentExploitGuard MDM policy Refresh
+25-Jun-24 13:34:34	task already preasentDmClient
+25-Jun-24 13:34:35	task already preasentDmClientOnScenarioDownload
+25-Jun-24 13:34:35	task already preasentProperty Definition Sync
+25-Jun-24 13:34:35	task already preasentFile History (maintenance mode)
+25-Jun-24 13:34:36	task already preasentReconcileFeatures
+25-Jun-24 13:34:36	task already preasentUsageDataFlushing
+25-Jun-24 13:34:36	task already preasentUsageDataReporting
+25-Jun-24 13:34:37	task already preasentRefreshCache
+25-Jun-24 13:34:37	task already preasentLocalUserSyncDataAvailable
+25-Jun-24 13:34:37	task already preasentMouseSyncDataAvailable
+25-Jun-24 13:34:37	task already preasentPenSyncDataAvailable
+25-Jun-24 13:34:38	task already preasentTouchpadSyncDataAvailable
+25-Jun-24 13:34:38	task already preasentScanForUpdates
+25-Jun-24 13:34:38	task already preasentScanForUpdatesAsUser
+25-Jun-24 13:34:39	task already preasentWakeUpAndContinueUpdates
+25-Jun-24 13:34:39	task already preasentWakeUpAndScanForUpdates
+25-Jun-24 13:34:39	task already preasentSynchronize Language Settings
+25-Jun-24 13:34:39	task already preasentInstallation
+25-Jun-24 13:34:40	task already preasentReconcileLanguageResources
+25-Jun-24 13:34:40	task already preasentNotifications
+25-Jun-24 13:34:40	task already preasentWindowsActionDialog
+25-Jun-24 13:34:41	task already preasentWinSAT
+25-Jun-24 13:34:41	task already preasentDetectHardwareChange
+25-Jun-24 13:34:41	task already preasentRemediateHardwareChange
+25-Jun-24 13:34:42	task already preasentCellular
+25-Jun-24 13:34:42	task already preasentLogon
+25-Jun-24 13:34:42	task already preasentRetry
+25-Jun-24 13:34:42	task already preasentRunOnReboot
+25-Jun-24 13:34:43	task already preasentMapsToastTask
+25-Jun-24 13:34:43	task already preasentMapsUpdateTask
+25-Jun-24 13:34:43	task already preasentProcessMemoryDiagnosticEvents
+25-Jun-24 13:34:44	task already preasentRunFullMemoryDiagnostic
+25-Jun-24 13:34:44	task already preasentMNO Metadata Parser
+25-Jun-24 13:34:44	task already preasentLPRemove
+25-Jun-24 13:34:45	task already preasentSystemSoundsService
+25-Jun-24 13:34:45	task already preasentGatherNetworkInfo
+25-Jun-24 13:34:45	task already preasentWiFiTask
+25-Jun-24 13:34:45	task already preasentBackground Synchronization
+25-Jun-24 13:34:46	task already preasentLogon Synchronization
+25-Jun-24 13:34:46	task already preasentSecureBootEncodeUEFI
+25-Jun-24 13:34:46	task already preasentDevice Install Group Policy
+25-Jun-24 13:34:47	task already preasentDevice Install Reboot Required
+25-Jun-24 13:34:47	task already preasentSysprep Generalize Drivers
+25-Jun-24 13:34:47	task already preasentAnalyzeSystem
+25-Jun-24 13:34:47	task already preasentEduPrintProv
+25-Jun-24 13:34:48	task already preasentPrinterCleanupTask
+25-Jun-24 13:34:48	task already preasentVerifyWinRE
+25-Jun-24 13:34:49	task already preasentRegIdleBackup
+25-Jun-24 13:34:49	task already preasentStartComponentCleanup
+25-Jun-24 13:34:49	task already preasentBackgroundUploadTask
+25-Jun-24 13:34:50	task already preasentNetworkStateChangeTask
+25-Jun-24 13:34:50	task already preasentAccount Cleanup
+25-Jun-24 13:34:50	task already preasentCreateObjectTask
+25-Jun-24 13:34:50	task already preasentFamilySafetyMonitor
+25-Jun-24 13:34:51	task already preasentFamilySafetyRefreshTask
+25-Jun-24 13:34:51	task already preasentIndexerAutomaticMaintenance
+25-Jun-24 13:34:51	task already preasentThemesSyncedImageDownload
+25-Jun-24 13:34:52	task already preasentSvcRestartTaskLogon
+25-Jun-24 13:34:52	task already preasentSpaceAgentTask
+25-Jun-24 13:34:52	task already preasentSpaceManagerTask
+25-Jun-24 13:34:52	task already preasentMaintenanceTasks
+25-Jun-24 13:34:53	task already preasentStorage Tiers Management Initialization
+25-Jun-24 13:34:53	task already preasentStorage Tiers Optimization
+25-Jun-24 13:34:53	task already preasentEnableLicenseAcquisition
+25-Jun-24 13:34:54	task already preasentLicenseAcquisition
+25-Jun-24 13:34:54	task already preasentHybridDriveCachePrepopulate
+25-Jun-24 13:34:54	task already preasentHybridDriveCacheRebalance
+25-Jun-24 13:34:55	task already preasentResPriStaticDbSync
+25-Jun-24 13:34:55	task already preasentWsSwapAssessmentTask
+25-Jun-24 13:34:55	task already preasentSR
+25-Jun-24 13:34:56	task already preasentInteractive
+25-Jun-24 13:34:56	task already preasentMsCtfMonitor
+25-Jun-24 13:34:56	task already preasentForceSynchronizeTime
+25-Jun-24 13:34:56	task already preasentSynchronizeTime
+25-Jun-24 13:34:57	task already preasentSynchronizeTimeZone
+25-Jun-24 13:34:57	task already preasentRunUpdateNotificationMgr
+25-Jun-24 13:34:57	task already preasentUPnPHostConfig
+25-Jun-24 13:34:58	task already preasentUsb-Notifications
+25-Jun-24 13:34:58	task already preasentWiFiTask
+25-Jun-24 13:34:59	task already preasentResolutionHost
+25-Jun-24 13:34:59	task already preasentWindows Defender Cache Maintenance
+25-Jun-24 13:34:59	task already preasentWindows Defender Cleanup
+25-Jun-24 13:34:59	task already preasentWindows Defender Scheduled Scan
+25-Jun-24 13:35:00	task already preasentWindows Defender Verification
+25-Jun-24 13:35:00	task already preasentQueueReporting
+25-Jun-24 13:35:00	task already preasentBfeOnServiceStartTypeChange
+25-Jun-24 13:35:01	task already preasentUpdateLibrary
+25-Jun-24 13:35:01	task already preasentCalibration Loader
+25-Jun-24 13:35:01	task already preasentScheduled Start
+25-Jun-24 13:35:02	task already preasentCacheTask
+25-Jun-24 13:35:02	task already preasentCDSSync
+25-Jun-24 13:35:02	task already preasentWork Folders Logon Synchronization
+25-Jun-24 13:35:03	task already preasentWork Folders Maintenance Work
+25-Jun-24 13:35:03	task already preasentAutomatic-Device-Join
+25-Jun-24 13:35:03	task already preasentDevice-Sync
+25-Jun-24 13:35:03	task already preasentRecovery-Check
+25-Jun-24 13:35:04	task already preasentNotificationTask
+25-Jun-24 13:35:04	task already preasentOobeDiscovery
+25-Jun-24 13:35:04	task already preasentXblGameSaveTask
+25-Jun-24 13:35:05	task already preasentFirefox Background Update S-1-5-21-4052539082-3249235043-2059780522-1001 A749823778009F0F
+25-Jun-24 13:35:05	task already preasentFirefox Default Browser Agent 308046B0AF4A39CB
+25-Jun-24 13:35:05	task already preasentFirefox Default Browser Agent A749823778009F0F
+25-Jun-24 13:35:15	Error saving scheduled tasks: Field not found in row: status
+25-Jun-24 13:35:15	All scheduled tasks saved to the database successfully.
+25-Jun-24 13:35:15	Utility Completed
+25-Jun-24 13:35:59	Executing utility at 6/25/2024 1:35:59 PM
+25-Jun-24 13:36:07	Error saving scheduled tasks: Field not found in row: status
+25-Jun-24 13:36:08	All scheduled tasks saved to the database successfully.
+25-Jun-24 13:36:08	Utility Completed
+25-Jun-24 13:36:28	Executing utility at 6/25/2024 1:36:28 PM
+25-Jun-24 13:58:41	Executing utility at 6/25/2024 1:58:41 PM
+25-Jun-24 13:59:40	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:00:02	task already preasentAdobe-Genuine-Software-Integrity-Scheduler-1.0
+25-Jun-24 14:00:09	task already preasentAdobeGCInvoker-1.0
+25-Jun-24 14:00:34	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:00:56	task already preasentOneDrive Reporting Task-S-1-5-21-4052539082-3249235043-2059780522-1001
+25-Jun-24 14:00:56	task already preasentOneDrive Standalone Update Task-S-1-5-21-4052539082-3249235043-2059780522-1001
+25-Jun-24 14:00:56	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:00:57	task already preasentVSIX Auto Update
+25-Jun-24 14:00:57	task already preasentUpdateConfiguration_S-1-5-21-4052539082-3249235043-2059780522-1001
+25-Jun-24 14:00:57	task already preasentUpdateConfiguration_S-1-5-21-4052539082-3249235043-2059780522-1002
+25-Jun-24 14:00:58	task already preasentUpdateConfiguration_S-1-5-80-1325446630-1604430999-376170648-153129477-3068919839
+25-Jun-24 14:00:58	task already preasentUpdateConfiguration_S-1-5-80-1558248044-1593909066-2064011601-2876309908-1898208377
+25-Jun-24 14:00:58	task already preasentUpdateConfiguration_S-1-5-80-1768481418-4243586691-1349411104-1299650809-3159321943
+25-Jun-24 14:00:58	task already preasentUpdateConfiguration_S-1-5-80-1829637061-4289792954-594388474-1141019738-1140273761
+25-Jun-24 14:00:59	task already preasentUpdateConfiguration_S-1-5-80-1899634293-1740304806-2887984933-505496300-1155962382
+25-Jun-24 14:00:59	task already preasentUpdateConfiguration_S-1-5-80-1985561900-798682989-2213159822-1904180398-3434236965
+25-Jun-24 14:00:59	task already preasentUpdateConfiguration_S-1-5-80-2153795431-3439670559-4211332317-2177827265-2821837002
+25-Jun-24 14:01:00	task already preasentUpdateConfiguration_S-1-5-80-2575449109-2369498003-86869817-2770163484-1998650617
+25-Jun-24 14:01:00	task already preasentUpdateConfiguration_S-1-5-80-2652535364-2169709536-2857650723-2622804123-1107741775
+25-Jun-24 14:01:00	task already preasentUpdateConfiguration_S-1-5-80-309224134-970686483-1999427595-3240087295-3167920316
+25-Jun-24 14:01:00	task already preasentUpdateConfiguration_S-1-5-80-3404462892-1987791245-2451609587-3755554482-3689831200
+25-Jun-24 14:01:01	task already preasentUpdateConfiguration_S-1-5-80-374725556-3612212497-2365472278-3259944318-2763227505
+25-Jun-24 14:01:01	task already preasentUpdateConfiguration_S-1-5-80-3880006512-4290199581-1648723128-3569869737-3631323133
+25-Jun-24 14:01:01	task already preasentUpdateConfiguration_S-1-5-80-3880718306-3832830129-1677859214-2598158968-1052248003
+25-Jun-24 14:01:02	task already preasentUpdateConfiguration_S-1-5-80-3985847660-2753231750-3124710427-4002290793-1281732417
+25-Jun-24 14:01:02	task already preasentUpdateConfiguration_S-1-5-80-418207337-3061451207-1180287332-530680628-2707783206
+25-Jun-24 14:01:02	task already preasentUpdateConfiguration_S-1-5-80-4221218650-3734044757-384929471-3242703948-1535012119
+25-Jun-24 14:01:02	task already preasentUpdateConfiguration_S-1-5-80-684135558-66954648-645343295-865517114-2956913369
+25-Jun-24 14:01:03	task already preasent.NET Framework NGEN v4.0.30319
+25-Jun-24 14:01:03	task already preasent.NET Framework NGEN v4.0.30319 64
+25-Jun-24 14:01:03	task already preasent.NET Framework NGEN v4.0.30319 64 Critical
+25-Jun-24 14:01:04	task already preasent.NET Framework NGEN v4.0.30319 Critical
+25-Jun-24 14:01:04	task already preasentAD RMS Rights Policy Template Management (Automated)
+25-Jun-24 14:01:04	task already preasentAD RMS Rights Policy Template Management (Manual)
+25-Jun-24 14:01:04	task already preasentPolicyConverter
+25-Jun-24 14:01:05	task already preasentVerifiedPublisherCertStoreCheck
+25-Jun-24 14:01:05	task already preasentMareBackup
+25-Jun-24 14:01:05	task already preasentMicrosoft Compatibility Appraiser
+25-Jun-24 14:01:06	task already preasentPcaPatchDbTask
+25-Jun-24 14:01:06	task already preasentProgramDataUpdater
+25-Jun-24 14:01:06	task already preasentStartupAppTask
+25-Jun-24 14:01:06	task already preasentappuriverifierdaily
+25-Jun-24 14:01:07	task already preasentappuriverifierinstall
+25-Jun-24 14:01:07	task already preasentCleanupTemporaryState
+25-Jun-24 14:01:07	task already preasentDsSvcCleanup
+25-Jun-24 14:01:07	task already preasentBackup
+25-Jun-24 14:01:08	task already preasentBackupNonMaintenance
+25-Jun-24 14:01:08	task already preasentPre-staged app cleanup
+25-Jun-24 14:01:08	task already preasentProxy
+25-Jun-24 14:01:09	task already preasentBitLocker Encrypt All Drives
+25-Jun-24 14:01:09	task already preasentBitLocker MDM policy Refresh
+25-Jun-24 14:01:09	task already preasentUninstallDeviceTask
+25-Jun-24 14:01:10	task already preasentBgTaskRegistrationMaintenanceTask
+25-Jun-24 14:01:10	task already preasentUserTask
+25-Jun-24 14:01:10	task already preasentUserTask-Roam
+25-Jun-24 14:01:10	task already preasentProactiveScan
+25-Jun-24 14:01:11	task already preasentSyspartRepair
+25-Jun-24 14:01:11	task already preasentLicenseImdsIntegration
+25-Jun-24 14:01:11	task already preasentCreateObjectTask
+25-Jun-24 14:01:11	task already preasentBackup
+25-Jun-24 14:01:12	task already preasentUnifiedConsentSyncTask
+25-Jun-24 14:01:12	task already preasentConsolidator
+25-Jun-24 14:01:12	task already preasentUsbCeip
+25-Jun-24 14:01:13	task already preasentData Integrity Check And Scan
+25-Jun-24 14:01:13	task already preasentData Integrity Scan
+25-Jun-24 14:01:13	task already preasentData Integrity Scan for Crash Recovery
+25-Jun-24 14:01:13	task already preasentScheduledDefrag
+25-Jun-24 14:01:14	task already preasentDevice
+25-Jun-24 14:01:14	task already preasentDevice User
+25-Jun-24 14:01:14	task already preasentRecommendedTroubleshootingScanner
+25-Jun-24 14:01:15	task already preasentScheduled
+25-Jun-24 14:01:15	task already preasentDirectXDatabaseUpdater
+25-Jun-24 14:01:15	task already preasentDXGIAdapterCache
+25-Jun-24 14:01:16	task already preasentSilentCleanup
+25-Jun-24 14:01:16	task already preasentMicrosoft-Windows-DiskDiagnosticDataCollector
+25-Jun-24 14:01:16	task already preasentMicrosoft-Windows-DiskDiagnosticResolver
+25-Jun-24 14:01:16	task already preasentDiagnostics
+25-Jun-24 14:01:17	task already preasentStorageSense
+25-Jun-24 14:01:17	task already preasentdusmtask
+25-Jun-24 14:01:17	task already preasentEDP App Launch Task
+25-Jun-24 14:01:18	task already preasentEDP Auth Task
+25-Jun-24 14:01:18	task already preasentEDP Inaccessible Credentials Task
+25-Jun-24 14:01:18	task already preasentStorageCardEncryption Task
+25-Jun-24 14:01:18	task already preasentExploitGuard MDM policy Refresh
+25-Jun-24 14:01:19	task already preasentDmClient
+25-Jun-24 14:01:19	task already preasentDmClientOnScenarioDownload
+25-Jun-24 14:01:19	task already preasentProperty Definition Sync
+25-Jun-24 14:01:20	task already preasentFile History (maintenance mode)
+25-Jun-24 14:01:20	task already preasentReconcileFeatures
+25-Jun-24 14:01:20	task already preasentUsageDataFlushing
+25-Jun-24 14:01:20	task already preasentUsageDataReporting
+25-Jun-24 14:01:21	task already preasentRefreshCache
+25-Jun-24 14:01:21	task already preasentLocalUserSyncDataAvailable
+25-Jun-24 14:01:21	task already preasentMouseSyncDataAvailable
+25-Jun-24 14:01:22	task already preasentPenSyncDataAvailable
+25-Jun-24 14:01:22	task already preasentTouchpadSyncDataAvailable
+25-Jun-24 14:01:22	task already preasentScanForUpdates
+25-Jun-24 14:01:22	task already preasentScanForUpdatesAsUser
+25-Jun-24 14:01:23	task already preasentWakeUpAndContinueUpdates
+25-Jun-24 14:01:23	task already preasentWakeUpAndScanForUpdates
+25-Jun-24 14:01:23	task already preasentSynchronize Language Settings
+25-Jun-24 14:01:24	task already preasentInstallation
+25-Jun-24 14:01:24	task already preasentReconcileLanguageResources
+25-Jun-24 14:01:25	task already preasentNotifications
+25-Jun-24 14:01:25	task already preasentWindowsActionDialog
+25-Jun-24 14:01:25	task already preasentWinSAT
+25-Jun-24 14:01:25	task already preasentDetectHardwareChange
+25-Jun-24 14:01:26	task already preasentRemediateHardwareChange
+25-Jun-24 14:01:26	task already preasentCellular
+25-Jun-24 14:01:26	task already preasentLogon
+25-Jun-24 14:01:27	task already preasentRetry
+25-Jun-24 14:01:27	task already preasentRunOnReboot
+25-Jun-24 14:01:27	task already preasentMapsToastTask
+25-Jun-24 14:01:27	task already preasentMapsUpdateTask
+25-Jun-24 14:01:28	task already preasentProcessMemoryDiagnosticEvents
+25-Jun-24 14:01:28	task already preasentRunFullMemoryDiagnostic
+25-Jun-24 14:01:28	task already preasentMNO Metadata Parser
+25-Jun-24 14:01:28	task already preasentLPRemove
+25-Jun-24 14:01:29	task already preasentSystemSoundsService
+25-Jun-24 14:01:29	task already preasentGatherNetworkInfo
+25-Jun-24 14:01:29	task already preasentWiFiTask
+25-Jun-24 14:01:30	task already preasentBackground Synchronization
+25-Jun-24 14:01:30	task already preasentLogon Synchronization
+25-Jun-24 14:01:30	task already preasentSecureBootEncodeUEFI
+25-Jun-24 14:01:30	task already preasentDevice Install Group Policy
+25-Jun-24 14:01:31	task already preasentDevice Install Reboot Required
+25-Jun-24 14:01:31	task already preasentSysprep Generalize Drivers
+25-Jun-24 14:01:31	task already preasentAnalyzeSystem
+25-Jun-24 14:01:32	task already preasentEduPrintProv
+25-Jun-24 14:01:32	task already preasentPrinterCleanupTask
+25-Jun-24 14:01:32	task already preasentVerifyWinRE
+25-Jun-24 14:01:32	task already preasentRegIdleBackup
+25-Jun-24 14:01:33	task already preasentStartComponentCleanup
+25-Jun-24 14:01:33	task already preasentBackgroundUploadTask
+25-Jun-24 14:01:33	task already preasentNetworkStateChangeTask
+25-Jun-24 14:01:34	task already preasentAccount Cleanup
+25-Jun-24 14:01:34	task already preasentCreateObjectTask
+25-Jun-24 14:01:34	task already preasentFamilySafetyMonitor
+25-Jun-24 14:01:34	task already preasentFamilySafetyRefreshTask
+25-Jun-24 14:01:35	task already preasentIndexerAutomaticMaintenance
+25-Jun-24 14:01:35	task already preasentThemesSyncedImageDownload
+25-Jun-24 14:01:35	task already preasentSvcRestartTaskLogon
+25-Jun-24 14:01:36	task already preasentSpaceAgentTask
+25-Jun-24 14:01:36	task already preasentSpaceManagerTask
+25-Jun-24 14:01:36	task already preasentMaintenanceTasks
+25-Jun-24 14:01:36	task already preasentStorage Tiers Management Initialization
+25-Jun-24 14:01:37	task already preasentStorage Tiers Optimization
+25-Jun-24 14:01:37	task already preasentEnableLicenseAcquisition
+25-Jun-24 14:01:37	task already preasentLicenseAcquisition
+25-Jun-24 14:01:38	task already preasentHybridDriveCachePrepopulate
+25-Jun-24 14:01:38	task already preasentHybridDriveCacheRebalance
+25-Jun-24 14:01:38	task already preasentResPriStaticDbSync
+25-Jun-24 14:01:38	task already preasentWsSwapAssessmentTask
+25-Jun-24 14:01:39	task already preasentSR
+25-Jun-24 14:01:39	task already preasentInteractive
+25-Jun-24 14:01:39	task already preasentMsCtfMonitor
+25-Jun-24 14:01:40	task already preasentForceSynchronizeTime
+25-Jun-24 14:01:40	task already preasentSynchronizeTime
+25-Jun-24 14:01:40	task already preasentSynchronizeTimeZone
+25-Jun-24 14:01:40	task already preasentRunUpdateNotificationMgr
+25-Jun-24 14:01:41	task already preasentUPnPHostConfig
+25-Jun-24 14:01:41	task already preasentUsb-Notifications
+25-Jun-24 14:01:41	task already preasentWiFiTask
+25-Jun-24 14:01:42	task already preasentResolutionHost
+25-Jun-24 14:01:42	task already preasentWindows Defender Cache Maintenance
+25-Jun-24 14:01:42	task already preasentWindows Defender Cleanup
+25-Jun-24 14:01:42	task already preasentWindows Defender Scheduled Scan
+25-Jun-24 14:01:43	task already preasentWindows Defender Verification
+25-Jun-24 14:01:43	task already preasentQueueReporting
+25-Jun-24 14:01:43	task already preasentBfeOnServiceStartTypeChange
+25-Jun-24 14:01:44	task already preasentUpdateLibrary
+25-Jun-24 14:01:44	task already preasentCalibration Loader
+25-Jun-24 14:01:44	task already preasentScheduled Start
+25-Jun-24 14:01:44	task already preasentCacheTask
+25-Jun-24 14:01:45	task already preasentCDSSync
+25-Jun-24 14:01:45	task already preasentWork Folders Logon Synchronization
+25-Jun-24 14:01:45	task already preasentWork Folders Maintenance Work
+25-Jun-24 14:01:45	task already preasentAutomatic-Device-Join
+25-Jun-24 14:01:46	task already preasentDevice-Sync
+25-Jun-24 14:01:46	task already preasentRecovery-Check
+25-Jun-24 14:01:46	task already preasentNotificationTask
+25-Jun-24 14:01:47	task already preasentOobeDiscovery
+25-Jun-24 14:01:47	task already preasentXblGameSaveTask
+25-Jun-24 14:01:47	task already preasentFirefox Background Update S-1-5-21-4052539082-3249235043-2059780522-1001 A749823778009F0F
+25-Jun-24 14:01:48	task already preasentFirefox Default Browser Agent 308046B0AF4A39CB
+25-Jun-24 14:01:48	task already preasentFirefox Default Browser Agent A749823778009F0F
+25-Jun-24 14:01:48	All scheduled tasks saved to the database successfully.
+25-Jun-24 14:01:48	Utility Completed
+25-Jun-24 14:08:42	Executing utility at 6/25/2024 2:08:42 PM
+25-Jun-24 14:09:45	total records insert186
+25-Jun-24 14:09:47	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:09:47	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:09:48	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:09:49	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:09:49	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:09:50	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:09:50	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:09:51	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:09:52	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:09:52	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:09:53	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:09:54	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:09:54	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:09:55	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:09:55	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:09:56	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:09:57	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:09:57	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:09:58	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:09:58	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:09:59	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:10:00	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:10:00	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:10:01	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:10:02	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:10:02	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:10:03	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:10:03	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:10:04	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:10:05	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:10:05	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:10:06	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:10:06	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:10:07	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:10:09	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:10:09	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:10:10	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:10:11	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:10:11	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:10:12	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:10:12	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:10:13	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:10:14	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:10:14	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:10:15	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:10:16	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:10:16	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:10:17	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:10:17	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:10:18	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:10:19	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:10:19	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:10:20	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:10:20	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:10:21	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:10:22	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:10:22	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:10:23	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:10:23	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:10:24	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:10:25	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:10:25	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:10:26	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:10:27	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:10:27	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:10:28	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:10:28	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:10:29	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:10:30	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:10:30	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:10:31	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:10:33	Executing utility at 6/25/2024 2:10:33 PM
+25-Jun-24 14:11:32	total records insert186
+25-Jun-24 14:11:34	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:35	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:35	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:35	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:36	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:37	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:37	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:38	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:39	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:39	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:40	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:40	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:41	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:41	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:41	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:42	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:42	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:42	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:42	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:43	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:43	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:43	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:44	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:44	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:44	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:45	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:45	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:45	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:45	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:46	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:46	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:46	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:47	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:47	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:47	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:48	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:48	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:48	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:48	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:49	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:49	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:50	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:50	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:50	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:50	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:51	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:51	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:51	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:52	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:52	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:52	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:53	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:53	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:53	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:53	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:54	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:54	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:54	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:55	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:55	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:55	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:56	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:56	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:56	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:57	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:57	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:57	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:57	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:58	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:58	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:58	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:59	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:59	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:11:59	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:00	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:00	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:00	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:00	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:01	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:01	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:02	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:02	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:02	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:02	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:03	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:03	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:03	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:03	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:04	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:04	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:05	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:05	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:06	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:06	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:07	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:08	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:08	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:09	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:09	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:10	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:11	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:11	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:12	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:12	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:13	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:14	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:14	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:15	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:15	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:16	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:17	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:17	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:18	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:18	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:19	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:19	Executing utility at 6/25/2024 2:12:19 PM
+25-Jun-24 14:12:19	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:20	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:21	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:21	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:22	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:22	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:23	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:24	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:24	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:25	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:26	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:26	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:27	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:28	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:28	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:29	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:29	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:30	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:31	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:31	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:32	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:32	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:33	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:33	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:34	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:35	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:35	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:36	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:36	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:37	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:38	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:39	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:39	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:40	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:40	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:41	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:42	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:42	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:43	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:43	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:44	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:45	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:45	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:46	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:46	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:47	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:48	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:48	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:49	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:49	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:50	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:51	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:51	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:52	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:52	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:53	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:53	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:54	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:55	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:56	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:56	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:57	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:57	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:58	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:59	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:12:59	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:13:00	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:13:00	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:13:01	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:13:02	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:13:02	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:13:03	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:13:03	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:13:04	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:13:04	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:13:05	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:13:06	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:13:06	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:13:07	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:13:07	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:13:08	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:13:09	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:13:09	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:13:10	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:13:11	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:13:11	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:13:12	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:13:12	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:13:13	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:13:13	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:13:14	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:13:15	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:13:15	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:13:16	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:13:16	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:13:17	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:13:18	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:13:18	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:13:19	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:13:19	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:13:20	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:13:21	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:13:21	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:13:22	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:13:22	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:13:23	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:13:24	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:13:24	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:13:24	Total Records2
+25-Jun-24 14:13:24	All scheduled tasks saved to the database successfully.
+25-Jun-24 14:13:24	Utility Completed
+25-Jun-24 14:13:36	Executing utility at 6/25/2024 2:13:36 PM
+25-Jun-24 14:14:49	total records insert186
+25-Jun-24 14:15:33	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:15:58	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:16:10	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:16:19	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:18:29	Executing utility at 6/25/2024 2:18:29 PM
+25-Jun-24 14:19:33	total records insert186
+25-Jun-24 14:20:34	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:24:08	Executing utility at 6/25/2024 2:24:08 PM
+25-Jun-24 14:25:10	total records insert186
+25-Jun-24 14:25:12	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:25:13	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:26:08	All scheduled tasks saved to the database successfully.
+25-Jun-24 14:26:08	Utility Completed
+25-Jun-24 14:39:50	Executing utility at 6/25/2024 2:39:50 PM
+25-Jun-24 14:40:49	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:40:51	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 14:41:43	All scheduled tasks saved to the database successfully.
+25-Jun-24 14:41:43	Utility Completed
+25-Jun-24 15:10:34	Executing utility at 6/25/2024 3:10:34 PM
+25-Jun-24 15:11:36	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
+25-Jun-24 15:11:37	
+            INSERT INTO tbl_scheduledtasks 
+                (taskname, status, nextruntime, lastruntime, lasttaskresult, author, check_current_status) 
+            VALUES 
+                (@taskname, @status, @nextruntime, @lastruntime, @lasttaskresult, @author, true);
